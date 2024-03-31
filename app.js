@@ -28,10 +28,10 @@ function update_about(data, section_type) {
 
 function update_contacts(data, section_type) {
   let content = compose_section_beginning(section_type);
-  content += '<div class="col-lg">';
+  content += '<div class="col-lg"><p>';
   for (let j = 0; j < data.section_data.length; j++)
     content += `<b>${data.section_data[j].label}:</b> <a href="${data.section_data[j].link}" target="_blank" rel="external">${data.section_data[j].display_text}</a><br>`;
-  content += '</div>';
+  content += '</p></div>';
   content += compose_section_end();
   return content;
 }
