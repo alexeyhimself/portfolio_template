@@ -1,0 +1,40 @@
+{
+  "full_name": "Super Mario",
+  "pitch": "An awesome person who can do rad shit",
+  "sections": [
+    {
+      "About": {
+        "section_explanatory_text": "",
+        "section_data": "I like to run, jump, collect coins and eat mushrooms."
+      }
+    },
+    {
+      "Projects": {
+        "section_explanatory_text": "Below is a list of my accomplishments:",
+        "section_data": [
+          {
+            "project_header": "Bowser Fight",
+            "project_link": "https://nintendo.com",
+            "project_description": "Learned how to avoid each trap, and how to damage the boss with his own minions, and beat him with a few attempts.",
+            "project_images": [
+              {
+                "link": "https://www.dropbox.com/scl/fi/fi95nlw7332r5ua49o5we/super-mario-bros-speedrun.jpg?rlkey=1tfets9ip2m8ny6979dzypurt&raw=1",
+                "description": "Jumped over Bowser"
+              },
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Contacts": {
+        "section_explanatory_text": "",
+        "section_data": [
+          {"label": "Email", "display_text": "supermario@nintendo.com", "link": "mailto:supermario@nintendo.com"},
+          {"label": "GitHub", "display_text": "supermario", "link": "https://github.com/supermario"},
+          {"label": "Social", "display_text": "LinkedIn", "link": "https://www.linkedin.com/in/supermario"}
+        ]
+      }
+    }
+  ]
+}

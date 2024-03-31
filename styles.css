@@ -1,0 +1,58 @@
+h1 {
+  font-size: 2em;
+}
+@media only screen and (min-width: 992px) {
+  .margin-custom-page {
+    margin-top: 3rem !important;
+    margin-bottom: 10rem !important;
+  }
+  h1 {
+    font-size: 3em;
+  }
+}
+.margin-custom-page {
+  margin-bottom: 2rem;
+}
+.welcome-message {
+  margin: 25vh 0 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.section-about {
+  margin-top: 40px;
+}
+body {
+  background-color: floralwhite;
+}
+h1, h3, .navbar-brand {
+  font-family: "Cabin", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+h2, p, a, li {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+p, .nav-link, li {
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+a {
+  font-weight: 400;
+}
+.navbar-brand {
+  font-size: 1.4em;
+  margin-left: 0.3em;
+}
+.row {
+  scroll-margin-top: 2em;
+}
+.img-thumbnail {
+  height: 180px !important;
+}
