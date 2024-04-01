@@ -3,7 +3,7 @@
 ## Demo
 This is how this repository looks being published with GitHub Pages: <a href="https://alexeyhimself.github.io/portfolio_template" target="_blank">open portfolio template</a>.
 
-<kbd><img src="https://www.dropbox.com/scl/fi/m1ga5lh4neszvjojosesq/main_desktop.png?rlkey=pyktykpbbkcq5v875zt45jvbe&raw=1" width="78%"></kbd> <kbd><img src="https://www.dropbox.com/scl/fi/u40q8bn7grsd6a3ysw61i/main_mobile.png?rlkey=sn5wxhsa84bc0wrck1fx9ek6g&raw=1" width="20%"></kbd>
+<kbd><img src="https://www.dropbox.com/scl/fi/m1ga5lh4neszvjojosesq/main_desktop.png?rlkey=pyktykpbbkcq5v875zt45jvbe&raw=1" width="79%"> <img src="https://www.dropbox.com/scl/fi/u40q8bn7grsd6a3ysw61i/main_mobile.png?rlkey=sn5wxhsa84bc0wrck1fx9ek6g&raw=1" width="20%"></kbd>
 
 ## For whom
 This template might be a good solution for you if you:
