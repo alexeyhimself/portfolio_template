@@ -1,12 +1,13 @@
 # Portfolio template for tech people
-A portfolio template git repository for tech savvy people.
 
-This might be a good solution for you if:
-* you don't have a portfolio, 
-* you want to build a portfolio from a simple and nice template fast,
-* you know how to work with GitHub
+<img src="https://www.dropbox.com/scl/fi/m1ga5lh4neszvjojosesq/main_desktop.png?rlkey=pyktykpbbkcq5v875zt45jvbe&raw=1" width="78%"> <img src="https://www.dropbox.com/scl/fi/u40q8bn7grsd6a3ysw61i/main_mobile.png?rlkey=sn5wxhsa84bc0wrck1fx9ek6g&raw=1" width="20%">
 
-This portfolio uses [GitHub Pages](https://pages.github.com) technology for publishing. And for example this portfolio template is currently published on GitHub Pages and looks this way: [open this portfolio template on GitHub Pages](https://alexeyhimself.github.io/portfolio_template).
+This template might be a good solution for you if you:
+* don't have a portfolio, 
+* want to build a portfolio from a simple and nice template fast,
+* know how to work with GitHub.
+
+This portfolio uses [GitHub Pages](https://pages.github.com) technology for publishing. And for example [this portfolio template is currently published with GitHub Pages](https://alexeyhimself.github.io/portfolio_template) as well.
 
 ## How to use it
 ### Fork and init publishing
