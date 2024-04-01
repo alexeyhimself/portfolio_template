@@ -31,8 +31,8 @@
         "section_explanatory_text": "",
         "section_data": [
           {"label": "Email", "display_text": "supermario@nintendo.com", "link": "mailto:supermario@nintendo.com"},
-          {"label": "GitHub", "display_text": "open this portfolio template on GitHub", "link": "https://github.com/alexeyhimself/portfolio_template"},
-          {"label": "LinkedIn", "display_text": "meet an author of this template", "link": "https://www.linkedin.com/in/aleksei-sotskov"}
+          {"label": "GitHub", "display_text": "source code for this portfolio template", "link": "https://github.com/alexeyhimself/portfolio_template"},
+          {"label": "LinkedIn", "display_text": "an author of this template", "link": "https://www.linkedin.com/in/aleksei-sotskov"}
         ]
       }
     }

@@ -27,3 +27,6 @@ This portfolio uses [GitHub Pages](https://pages.github.com) technology for publ
 1. Push your changes;
 1. Go to "Actions" to make sure that publishing has finished successfully;
 1. Refresh the page opened from the link in "Settings" ➔ "Pages".
+
+## Inspirations
+Inspiration for simple and clear design for this template I've got from [Nathan Ko](https://nathanko.com)'s portfolio web-site.
