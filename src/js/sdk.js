@@ -109,7 +109,7 @@ function run_post_fetch_routines(data) {
 }
 
 window.onload = function() {
-  fetch('data.json')
+  fetch('data/data.json')
     .then((response) => response.json())
     .then((data) => {
       run_post_fetch_routines(data);
@@ -117,8 +117,8 @@ window.onload = function() {
     .catch((error) => {
       console.warn('data.json file is not available, fallback to data.sample.json file');
 
-      //fetch('data.sample.json')
-      fetch('https://raw.githubusercontent.com/alexeyhimself/portfolio_template/main/data.sample.json')
+      //fetch('data/data.sample.json')
+      fetch('https://raw.githubusercontent.com/alexeyhimself/portfolio_template/main/data/data.sample.json')
         .then((response) => response.json())
         .then((data) => {
           run_post_fetch_routines(data);
