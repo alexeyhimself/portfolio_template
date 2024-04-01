@@ -5,7 +5,7 @@
     {
       "About": {
         "section_explanatory_text": "",
-        "section_data": "This is a portfolio template for tech people published with GitHub Pages. You can fork it on GitHub, update data.json with your data, publish with GitHub Pages and use as your personal portfolio."
+        "section_data": "This is a portfolio template for tech people published with GitHub Pages. You can fork it on GitHub (see link below), update data.json with your data, publish with GitHub Pages the same way and use it as your personal portfolio 👍"
       }
     },
     {
@@ -15,7 +15,7 @@
           {
             "project_header": "Bowser Fight, 1985, ",
             "project_link": "https://nintendo.com",
-            "project_description": "Here you can describe project outcomes and provide screenshots / pictures.",
+            "project_description": "Here you can describe project outcomes and provide screenshots / pictures. Click on an image to open it full size.",
             "project_images": [
               {
                 "link": "https://www.dropbox.com/scl/fi/fi95nlw7332r5ua49o5we/super-mario-bros-speedrun.jpg?rlkey=1tfets9ip2m8ny6979dzypurt&raw=1",
@@ -31,8 +31,8 @@
         "section_explanatory_text": "",
         "section_data": [
           {"label": "Email", "display_text": "supermario@nintendo.com", "link": "mailto:supermario@nintendo.com"},
-          {"label": "GitHub", "display_text": "this portfolio template", "link": "https://github.com/alexeyhimself/portfolio_template"},
-          {"label": "LinkedIn", "display_text": "author of this template", "link": "https://www.linkedin.com/in/aleksei-sotskov"}
+          {"label": "GitHub", "display_text": "view this portfolio template on GitHub", "link": "https://github.com/alexeyhimself/portfolio_template"},
+          {"label": "LinkedIn", "display_text": "view an author of this template", "link": "https://www.linkedin.com/in/aleksei-sotskov"}
         ]
       }
     }
