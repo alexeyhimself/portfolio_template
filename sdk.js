@@ -39,7 +39,7 @@ function update_contacts(data, section_type) {
 function compose_project_li(data) {
   content = '<li>';
   content += `<p><b>${data.project_header} `;
-  content += `<a href="${data.project_link}" target="_blank">${data.project_link}</a>`;
+  content += `<a href="${data.project_link}" target="_blank">${data.project_link.replace(/(^\w+:|^)\/\//, '')}</a>`;
   content += '</b></p>';
   content += `<p>${data.project_description}</p>`;
 
@@ -117,7 +117,8 @@ window.onload = function() {
     .catch((error) => {
       console.warn('data.json file is not available, fallback to data.sample.json file');
 
-      fetch('data.sample.json')
+      //fetch('data.sample.json')
+      fetch('https://raw.githubusercontent.com/alexeyhimself/portfolio_template/main/data.sample.json')
         .then((response) => response.json())
         .then((data) => {
           run_post_fetch_routines(data);
