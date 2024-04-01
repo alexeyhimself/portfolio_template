@@ -21,9 +21,9 @@ This portfolio uses [GitHub Pages](https://pages.github.com) technology for publ
 1. When publishing finished return back to "Settings" ➔ open "Pages" and find the link of a published portfolio: <kbd><img src="https://www.dropbox.com/scl/fi/phahvomq4fyr9z0rhafmy/how_to_find_link.png?rlkey=zxe8wr1bapfi2ghxgshg6c160&raw=1"></kbd>
 
 ### Adjust content
-1. Copy sample content from `data.sample.json` to `data.json`;
-1. Update content in `data.json` with your data;
-1. Make sure `data.json` is valid JSON file;
+1. Copy sample content from `data/data.sample.json` to `data/data.json`;
+1. Update content in `data/data.json` with your data;
+1. Make sure `data/data.json` is valid JSON file;
 1. Push your changes;
 1. Go to "Actions" to make sure that publishing has finished successfully;
 1. Refresh the page opened from the link in "Settings" ➔ "Pages".
