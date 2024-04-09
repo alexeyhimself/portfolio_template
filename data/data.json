@@ -99,6 +99,18 @@
             "project_link": "",
             "project_description": "Dropped by 80% efforts of QA Engineers at RingCentral on manual test cases management by development of test cases management system with advanced and user centered User eXperience.",
             "project_images": [
+              {
+                "link": "https://www.dropbox.com/scl/fi/88uu04iwgbettvyv80ldh/marketing_main.png?rlkey=3tqpntj0gg1ektwtrpdovoydu&raw=1",
+                "description": "Marketing web-site, main page"
+              },
+              {
+                "link": "https://www.dropbox.com/scl/fi/zxlvx7uezhuci5vfhanzl/acc_edit_mode.png?rlkey=pic6dbvkbr0p1y46o339sdop7&raw=1",
+                "description": "Account, edit mode"
+              },
+              {
+                "link": "https://www.dropbox.com/scl/fi/ypsle8vz1lxypl6sy85eb/reports.jpg?rlkey=suuufqxe5x7je88zkyrcplnov&raw=1",
+                "description": "Account, reports"
+              }
             ]
           },
           {
