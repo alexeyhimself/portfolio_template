@@ -13,21 +13,21 @@
         "section_explanatory_text": "Below is a list of my side-projects:",
         "section_data": [
           {
-            "project_header": "2024, B2C, healthcare",
+            "project_header": "“Calendarium”, 2024, B2C, healthcare.",
             "project_link": "https://calendarium.me",
-            "project_description": "In search of PMF I develop MVPs for a web app that based on data from World Health Organization and Human Mortality Database generates data-art pictures to decorate a wall in apartments to remember their owners to be consistent in personal and family healthcare through the decades of life.",
+            "project_description": "Added value and improved UX for already existing and selling on Amazon and Etsy “Life Calendar” product by adding data from World Health Organization and Human Mortality Database. Currently work with 2 interior designers to make a picture-like data-art object to decorate walls in apartments.",
             "project_images": [
               {
                 "link": "https://www.dropbox.com/scl/fi/c2jm8tfca8atanb3igeuo/calendarium-web.png?rlkey=fnrk1ppqugio61a2iadrbdhod&raw=1",
-                "description": "web app"
+                "description": "Web app"
               },
               {
                 "link": "https://www.dropbox.com/scl/fi/gkfosgd1hox7ix8fmzpmn/calendarium-mvp-jan-vs-feb-close.jpg?rlkey=3ud3q40ywmh3u0w72xebiu83e&raw=1",
-                "description": "MVPs Jan vs Feb 2024"
+                "description": "MVPs January vs February 2024"
               },
               {
                 "link": "https://www.dropbox.com/scl/fi/pe0g21rab8biq2tplg0hz/calendarium-mvp-feb.jpg?rlkey=faof35cthi7x370msnknh2ewl&raw=1",
-                "description": "latest MVP"
+                "description": "Latest (February 2024) MVP"
               }
             ]
           }
