@@ -38,7 +38,7 @@ function update_contacts(data, section_type) {
 
 function compose_project_li(data) {
   content = '<li class="project_li">';
-  content += `<p><b>${data.project_header} `;
+  content += `<p class="project_header"><b>${data.project_header} `;
   let pretty_link = data.project_link.replace(/(^\w+:|^)\/\//, '');  // romove protocol
       pretty_link = pretty_link.replace(/\/.*/, '');  // remove everything after hostname
   content += `<a href="${data.project_link}" target="_blank">${pretty_link}</a>`;
