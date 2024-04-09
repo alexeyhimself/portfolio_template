@@ -13,7 +13,7 @@
         "section_explanatory_text": "Below is a list of my side-projects:",
         "section_data": [
           {
-            "project_header": "“Portfolio Template”, 2024, B2C, marketing.",
+            "project_header": "“Portfolio Template”, 2024, B2C, marketing :: ",
             "project_link": "https://github.com/alexeyhimself/portfolio_template",
             "project_description": "Built a GitHub-based portfolio template for Technical Product Managers and Engineers &mdash; so we could better sell ourselves in our resumes and interviews nowadays.",
             "project_images": [
@@ -28,7 +28,7 @@
             ]
           },
           {
-            "project_header": "“Calendarium”, 2024, B2C, healthcare.",
+            "project_header": "“Calendarium”, 2024, B2C, healthcare :: ",
             "project_link": "https://calendarium.me",
             "project_description": "Added value and improved UX for already existing and selling on Amazon and Etsy “Life Calendar” product by adding data from World Health Organization and Human Mortality Database. Currently work with 2 interior designers to make a picture-like data-art object to decorate walls in apartments.",
             "project_images": [
