@@ -56,3 +56,6 @@ a {
 .img-thumbnail {
   height: 180px !important;
 }
+.project_li {
+  margin-bottom: 2em;
+}
