@@ -65,3 +65,10 @@ a {
 .project_header {
   margin-bottom: 0.5rem;
 }
+#image_preview {
+  height: 80vh;
+}
+.modal-dialog {
+  width: fit-content;
+  max-width: fit-content;
+}
