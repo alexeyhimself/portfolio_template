@@ -45,6 +45,21 @@
                 "description": "Latest (February 2024) MVP"
               }
             ]
+          },
+          {
+            "project_header": "”DoTheyUse”, 2023, B2B SaaS, analytics :: ",
+            "project_link": "https://dotheyuse.com",
+            "project_description": "Developed MVP of features usage product analytics service that helps software development teams to make data-informed UX decisions for digital apps and services.",
+            "project_images": [
+              {
+                "link": "https://www.dropbox.com/scl/fi/op1k17zeoi6yhzko7hipn/dtu-website.png?rlkey=nypj85237ypj40iwsdhgsm53w&raw=1",
+                "description": "Marketing web-site, main page"
+              },
+              {
+                "link": "https://www.dropbox.com/s/q2pqdf5hmyl09en/dtu-overview.gif?raw=1",
+                "description": "Web app"
+              }              
+            ]
           }
         ]
       }
