@@ -37,7 +37,7 @@ function update_contacts(data, section_type) {
 }
 
 function compose_project_li(data) {
-  content = '<li>';
+  content = '<li class="project_li">';
   content += `<p><b>${data.project_header} `;
   content += `<a href="${data.project_link}" target="_blank">${data.project_link.replace(/(^\w+:|^)\/\//, '')}</a>`;
   content += '</b></p>';
