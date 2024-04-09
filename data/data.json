@@ -60,6 +60,40 @@
                 "description": "Web app"
               }              
             ]
+          },
+          {
+            "project_header": "”Join IT via Software Testing”, 2020-2022, B2C, writing :: ",
+            "project_link": "https://intoit.tilda.ws/book",
+            "project_description": "Guided people who are about to transit in careers from non-IT to IT with independent from online courses marketing information by writing and selling hundreds copies of a book (in Russian).",
+            "project_images": [
+              {
+                "link": "https://www.dropbox.com/scl/fi/rudbjtou7smbwyky77fn2/main_page.png?rlkey=weyq89jiur8zaxs5a4ocfnynu&raw=1",
+                "description": "Title page"
+              },
+              {
+                "link": "https://www.dropbox.com/scl/fi/yb2y321ozhx8zvanxege6/chapters_sample.png?rlkey=oekulip4nf0f7s5gn0ac2ttgg&raw=1",
+                "description": "Section page with chapters"
+              },
+              {
+                "link": "https://www.dropbox.com/scl/fi/v62z8nyyzxuxz2wtjlcyz/chapter_directions.png?rlkey=pcg4sxl3evvcemy6gfd0327yl&raw=1",
+                "description": "Chapter example"
+              }              
+            ]
+          },
+          {
+            "project_header": "”Pairwise”, 2019, B2C SaaS, SWD tools",
+            "project_link": "",
+            "project_description": "Empowered hundreds of QA Engineers in the world to apply pairwise testing for test cases generation faster and easily by creating a simple web UI for an existing pairwise tests library.",
+            "project_images": [
+              {
+                "link": "https://www.dropbox.com/scl/fi/16govq12rpss1r640bvs4/main-page-no-data.jpg?rlkey=hnonh8jcrkxf89c2l7009vlt7&raw=1",
+                "description": "Main page with instructions"
+              },
+              {
+                "link": "https://www.dropbox.com/scl/fi/gtdtsudvqhypqcitxqmmr/main-page.jpg?rlkey=2izlrwufe1arsbv8arvzhsy3v&raw=1",
+                "description": "Main page with data samples"
+              }              
+            ]
           }
         ]
       }
