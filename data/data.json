@@ -47,6 +47,13 @@
             ]
           },
           {
+            "project_header": "Private app, 2023, B2B, travel",
+            "project_link": "",
+            "project_description": "Saved an entrepreneur in Montenegro hours of time every day by applying a chat-bot that automatically process thousands of daily messages in different Telegram chats and increased sales by 15%+ by contacting prospects faster than competitors using chat-bot.",
+            "project_images": [
+            ]
+          },
+          {
             "project_header": "”DoTheyUse”, 2023, B2B SaaS, analytics :: ",
             "project_link": "https://dotheyuse.com",
             "project_description": "Developed high fidelity real data prototype for features usage product analytics service that helps software development teams to make data-informed UX decisions and eliminate feature bloat for digital apps and services.",
@@ -62,9 +69,16 @@
             ]
           },
           {
+            "project_header": "Private app, 2022, B2B, services",
+            "project_link": "",
+            "project_description": "x2 increased sales for a cleaning services entrepreneur in Russia by building and selling a Telegram bot that automatically parses, filters and detects only wanted procurement orders faster than competitors.",
+            "project_images": [
+            ]
+          },
+          {
             "project_header": "”Join IT via Software Testing”, 2020-2022, B2C, writing :: ",
             "project_link": "https://intoit.tilda.ws/book",
-            "project_description": "Guided people who are about to transit in careers from non-IT to IT with independent from online courses marketing information by writing and selling hundreds copies of a book (in Russian).",
+            "project_description": "Guided people who are about to transit in careers to IT with independent from online courses marketing information by writing and selling hundreds copies of a book (in Russian).",
             "project_images": [
               {
                 "link": "https://www.dropbox.com/scl/fi/rudbjtou7smbwyky77fn2/main_page.png?rlkey=weyq89jiur8zaxs5a4ocfnynu&raw=1",
@@ -81,6 +95,13 @@
             ]
           },
           {
+            "project_header": "”SQA Mate”, 2015-2019, B2B SaaS, SWD tools, RingCentral",
+            "project_link": "",
+            "project_description": "Dropped by 80% efforts of QA Engineers at RingCentral on manual test cases management by development of test cases management system with advanced and user centered User eXperience.",
+            "project_images": [
+            ]
+          },
+          {
             "project_header": "”Pairwise”, 2019, B2C SaaS, SWD tools",
             "project_link": "",
             "project_description": "Empowered hundreds of QA Engineers in the world to apply pairwise testing for test cases generation faster and easily by creating a simple web UI for an existing pairwise tests library.",
@@ -92,6 +113,17 @@
               {
                 "link": "https://www.dropbox.com/scl/fi/gtdtsudvqhypqcitxqmmr/main-page.jpg?rlkey=2izlrwufe1arsbv8arvzhsy3v&raw=1",
                 "description": "Main page with data samples"
+              }              
+            ]
+          },
+          {
+            "project_header": "”Aport”, 2017, B2B SaaS, SWD tools, RingCentral",
+            "project_link": "",
+            "project_description": "By 2024 saved the company 3+ man-years on logs collection only by crafting a web service that enables efficient logs collection and sharing across tens of servers in tens of environments at the company.",
+            "project_images": [
+              {
+                "link": "https://www.dropbox.com/scl/fi/a3n0s3crh6ah3w2sqp91o/main-page.jpg?rlkey=r7fbh4uj10hg9yej7flabv8ax&raw=1",
+                "description": "Main page with logs retrieved"
               }              
             ]
           }
