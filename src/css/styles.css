@@ -57,7 +57,7 @@ a {
   height: 180px !important;
 }
 .project_li {
-  margin-bottom: 2em;
+  margin-bottom: 1.5em;
 }
 .img-thumbnail {
   margin: 0 10px 10px 0;
@@ -66,9 +66,13 @@ a {
   margin-bottom: 0.5rem;
 }
 #image_preview {
-  height: 80vh;
+  max-height: 80vh;
+  max-width: 80vw;
 }
 .modal-dialog {
   width: fit-content;
   max-width: fit-content;
+}
+.row {
+  margin-bottom: 1em;
 }
