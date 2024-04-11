@@ -143,6 +143,20 @@
       }
     },
     {
+      "Conferences": [
+        {
+          "title": "“Write test cases titles better!”",
+          "conference": "2019, Comaqa Autumn, St.Petersburg, Russia",
+          "link": "https://www.youtube.com/embed/feVgbebslfk?si=xfttInE4pmiIfd_U"
+        }, 
+        {
+          "title": "“SQA Mate test cases management system“",
+          "conference": "2019, Comaqa Spring, Minsk, Belarus",
+          "link": "https://www.youtube.com/embed/hfM7TQGMW2g?si=yAlWQjYZnoz8uBNu"
+        }
+      ]
+    },
+    {
       "Contacts": {
         "section_explanatory_text": "",
         "section_data": [
