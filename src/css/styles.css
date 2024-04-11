@@ -55,14 +55,12 @@ a {
 }
 .img-thumbnail {
   height: 180px !important;
-}
-.project_li {
-  margin-bottom: 1.5em;
-}
-.img-thumbnail {
   margin: 0 10px 10px 0;
 }
-.project_header {
+.li {
+  margin-bottom: 1.5em;
+}
+.li_header {
   margin-bottom: 0.5rem;
 }
 #image_preview {

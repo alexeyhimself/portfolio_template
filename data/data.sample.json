@@ -13,7 +13,7 @@
         "section_explanatory_text": "Below you can list your projects:",
         "section_data": [
           {
-            "project_header": "Bowser Fight, 1985, ",
+            "project_header": "“Bowser Fight”, 1985 :: ",
             "project_link": "https://nintendo.com",
             "project_description": "Here you can describe project outcomes and provide screenshots / pictures. Click on an image to open it full size.",
             "project_images": [
@@ -25,6 +25,15 @@
           }
         ]
       }
+    },
+    {
+      "Conferences": [
+        {
+          "title": "“Super Mario Bros. Wonder”",
+          "conference": "Nintendo Direct 6.21.2023",
+          "link": "https://www.youtube.com/embed/JStAYvbeSHc?si=--XUV7SNypuvuNDc"
+        }
+      ]
     },
     {
       "Contacts": {

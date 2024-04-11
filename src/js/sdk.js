@@ -37,8 +37,8 @@ function update_contacts(data, section_type) {
 }
 
 function compose_project_li(data) {
-  content = '<li class="project_li">';
-  content += `<p class="project_header"><b>${data.project_header} `;
+  content = '<li class="li">';
+  content += `<p class="li_header"><b>${data.project_header} `;
   let pretty_link = data.project_link.replace(/(^\w+:|^)\/\//, '');  // romove protocol
       pretty_link = pretty_link.replace(/\/.*/, '');  // remove everything after hostname
   content += `<a href="${data.project_link}" target="_blank">${pretty_link}</a>`;
@@ -56,6 +56,15 @@ function compose_project_li(data) {
   return content;
 }
 
+function compose_conference_li(data) {
+  content = '<li class="li">';
+  content += `<p class="li_header"><b>${data.title}, ${data.conference}</b></p>`;
+  //content += `<p>${data.title}</p>`;
+  content += `<iframe class="img-thumbnail" width="50%" height="auto" src="${data.link}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
+  content += '</li>';
+  return content;
+}
+
 function update_projects(data, section_type) {
   let content = compose_section_beginning(section_type);
   content += '<div class="col-lg">';
@@ -63,6 +72,19 @@ function update_projects(data, section_type) {
   content += '<ul>';
   for (let j = 0; j < data.section_data.length; j++)
     content += compose_project_li(data.section_data[j]);
+  content += '</ul>';
+  content += '</div>';
+  content += compose_section_end();
+  return content;
+}
+
+function update_conferences(data, section_type) {
+  let content = compose_section_beginning(section_type);
+  content += '<div class="col-lg">';
+  content += '<ul>';
+  for (let j = 0; j < data.length; j++)
+    content += compose_conference_li(data[j]);
+  
   content += '</ul>';
   content += '</div>';
   content += compose_section_end();
@@ -79,8 +101,10 @@ function update_sections(data) {
       function_to_call = update_contacts;
     else if (section_type_lower_case == 'about')
       function_to_call = update_about;
-    else if (section_type_lower_case == 'projects')
+    else if (section_type_lower_case == 'projects-')
       function_to_call = update_projects;
+    else if (section_type_lower_case == 'conferences')
+      function_to_call = update_conferences;
     else
       continue;
 
