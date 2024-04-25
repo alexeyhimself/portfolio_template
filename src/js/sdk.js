@@ -122,9 +122,17 @@ function update_element(data, locator) {
 function update_title(data) {
   document.title = `Portfolio of ${data}`;
 }
+function update_meta_description(data) {
+  document.getElementsByTagName('meta')["description"].content = `${data}`;
+}
+function update_meta_keywords(data) {
+  document.getElementsByTagName('meta')["keywords"].content = `${data}`;
+}
 
 function run_post_fetch_routines(data) {
   update_title(data.full_name);
+  update_meta_description(data.meta_description);
+  update_meta_keywords(data.meta_keywords);
 
   update_element(data.full_name, 'full-name');
   update_element(data.pitch, 'pitch');
