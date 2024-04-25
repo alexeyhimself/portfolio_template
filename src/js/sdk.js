@@ -59,8 +59,14 @@ function compose_project_li(data) {
 function compose_conference_li(data) {
   content = '<li class="li">';
   content += `<p class="li_header"><b>${data.title}, ${data.conference}</b></p>`;
-  //content += `<p>${data.title}</p>`;
   content += `<iframe class="img-thumbnail" width="50%" height="auto" src="${data.link}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
+  content += '</li>';
+  return content;
+}
+
+function compose_interview_li(data) {
+  content = '<li class="li">';
+  content += `<p class="li_header"><a href="${data.link}" target="_blank">${data.title}</a></p>`;
   content += '</li>';
   return content;
 }
@@ -91,6 +97,19 @@ function update_conferences(data, section_type) {
   return content;
 }
 
+function update_interviews(data, section_type) {
+  let content = compose_section_beginning(section_type);
+  content += '<div class="col-lg">';
+  content += '<ul>';
+  for (let j = 0; j < data.length; j++)
+    content += compose_interview_li(data[j]);
+  
+  content += '</ul>';
+  content += '</div>';
+  content += compose_section_end();
+  return content;
+}
+
 function update_sections(data) {
   let function_to_call;
   let content = '';
@@ -105,6 +124,8 @@ function update_sections(data) {
       function_to_call = update_projects;
     else if (section_type_lower_case == 'conferences')
       function_to_call = update_conferences;
+    else if (section_type_lower_case == 'interviews')
+      function_to_call = update_interviews;
     else
       continue;
 
@@ -151,14 +172,22 @@ window.onload = function() {
     .catch((error) => {
       console.warn('data.json file is not available, fallback to data.sample.json file');
 
-      //fetch('data/data.sample.json')
-      fetch('https://raw.githubusercontent.com/alexeyhimself/portfolio_template/main/data/data.sample.json')
+      fetch('data/data.sample.json')
         .then((response) => response.json())
         .then((data) => {
           run_post_fetch_routines(data);
         })
         .catch((error) => {
-          alert("Can't read neither your data.json nor data.sample.json files. Make sure they are available and have correct JSON format.");
+          console.warn('data.sample.json file is not available, fallback to data.sample.json file hosted by GitHub');
+
+          fetch('https://raw.githubusercontent.com/alexeyhimself/portfolio_template/main/data/data.sample.json')
+            .then((response) => response.json())
+            .then((data) => {
+              run_post_fetch_routines(data);
+            })
+            .catch((error) => {
+              alert("Can't read neither your data.json nor data.sample.json files. Make sure they are available and have correct JSON format.");
+            })
         })
     })
 
