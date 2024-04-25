@@ -7,18 +7,18 @@
     {
       "About": {
         "section_explanatory_text": "",
-        "section_data": "Builder at heart and a Product Manager with Product Software Engineering experience in making primarily B2B SaaS products, services and tools in Real-time Multimedia Communications (VoIP), Automotive (Electric Vehicles) and Software Development Tools domains. Spent the last 1.5 years on studying Product Management in a Product Operating Model (how the best teams work) by making side-projects."
+        "section_data": "Builder at heart and a Product Manager with 15+ years of Product Software Engineering experience in making primarily B2B SaaS services and tools in Real-time Multimedia Communications (VoIP), Automotive (Electric Vehicles) and Software Development Tools domains. During the last 1.5 years I have been studying Product Management in a Product Operating Model (how the best product teams work) from Marty Cagan by making side- and contract projects."
       }
     },
     {
       "Projects": {
-        "section_explanatory_text": "Below is a list of my side-projects:",
+        "section_explanatory_text": "Below is a list of my side- and contract projects:",
         "section_data": [
           {
-            "project_header": "“Portfolio Template”, 2024, B2C, marketing :: ",
-            "project_link": "https://github.com/alexeyhimself/portfolio_template",
-            "project_description": "Encouraged Product Managers and Engineers to better sell themselves in resumes and interviews by building a GitHub-based portfolio template &mdash; so they could fork it, adjust data.json file with their data and get personal, nice-looking, responsive portfolio web-site hosted by GitHub Pages for free.",
-            "project_images": [
+            "header": "“Portfolio Template”, 2024, B2C, marketing (side-project) :: ",
+            "link": "https://github.com/alexeyhimself/portfolio_template",
+            "description": "Encouraged Product Managers and Engineers to better sell themselves in resumes and interviews by building a GitHub-based portfolio template &mdash; so they could fork it, adjust data.json file with their data and get personal, nice-looking, responsive portfolio web-site hosted by GitHub Pages for free.",
+            "images": [
               {
                 "link": "https://www.dropbox.com/scl/fi/m1ga5lh4neszvjojosesq/main_desktop.png?rlkey=pyktykpbbkcq5v875zt45jvbe&raw=1",
                 "description": "Desktop version"
@@ -30,10 +30,10 @@
             ]
           },
           {
-            "project_header": "“Calendarium”, 2024, B2C, healthcare :: ",
-            "project_link": "https://calendarium.me",
-            "project_description": "Added value and improved UX for already existing and selling on Amazon and Etsy “Life Calendar” product by adding data from World Health Organization and Human Mortality Database. Currently work with 2 interior designers to make a data-art picture to decorate walls in apartments.",
-            "project_images": [
+            "header": "“Calendarium”, 2024, B2C, healthcare (side-project) :: ",
+            "link": "https://calendarium.me",
+            "description": "Added value and improved UX for already existing and selling on Amazon and Etsy “Life Calendar” product by adding data from World Health Organization and Human Mortality Database. Currently work with 2 interior designers to make a data-art picture to decorate walls in apartments.",
+            "images": [
               {
                 "link": "https://www.dropbox.com/scl/fi/c2jm8tfca8atanb3igeuo/calendarium-web.png?rlkey=fnrk1ppqugio61a2iadrbdhod&raw=1",
                 "description": "Web app"
@@ -49,17 +49,17 @@
             ]
           },
           {
-            "project_header": "Private app, 2023, B2B, travel",
-            "project_link": "",
-            "project_description": "Saved an entrepreneur in Montenegro hours of time every day by applying a chat-bot that automatically process thousands of daily messages in different Telegram chats and increased sales by 15%+ by contacting prospects faster than competitors using chat-bot.",
-            "project_images": [
+            "header": "Private app, 2023, B2B, travel (contract work)",
+            "link": "",
+            "description": "Saved an entrepreneur in Montenegro hours of time every day by applying a chat-bot that automatically process thousands of daily messages in different Telegram chats and increased sales by 15%+ by contacting prospects faster than competitors using chat-bot.",
+            "images": [
             ]
           },
           {
-            "project_header": "”DoTheyUse”, 2023, B2B SaaS, analytics :: ",
-            "project_link": "https://dotheyuse.com",
-            "project_description": "Developed a high fidelity real data prototype for features usage product analytics service that helps software development teams to make data-informed UX decisions and eliminate feature bloat for digital apps and services.",
-            "project_images": [
+            "header": "”DoTheyUse”, 2023, B2B SaaS, analytics (side-project) :: ",
+            "link": "https://dotheyuse.com",
+            "description": "Developed a high fidelity real data prototype for features usage product analytics service that helps software development teams to make data-informed UX decisions and eliminate feature bloat for digital apps and services.",
+            "images": [
               {
                 "link": "https://www.dropbox.com/scl/fi/op1k17zeoi6yhzko7hipn/dtu-website.png?rlkey=nypj85237ypj40iwsdhgsm53w&raw=1",
                 "description": "Marketing web-site, main page"
@@ -71,17 +71,17 @@
             ]
           },
           {
-            "project_header": "Private app, 2022, B2B, services",
-            "project_link": "",
-            "project_description": "x2 increased sales for a cleaning services entrepreneur in Russia by building and selling a Telegram bot that automatically parses, filters and detects only wanted procurement orders faster than competitors.",
-            "project_images": [
+            "header": "Private app, 2022, B2B, services (contract work)",
+            "link": "",
+            "description": "x2 increased sales for a cleaning services entrepreneur in Russia by building and selling a Telegram bot that automatically parses, filters and detects only wanted procurement orders faster than competitors.",
+            "images": [
             ]
           },
           {
-            "project_header": "”Join IT via Software Testing”, 2020-2022, B2C, writing :: ",
-            "project_link": "https://intoit.tilda.ws/book",
-            "project_description": "Guided people who are about to transit in careers to IT with independent from online courses marketing information by writing and selling hundreds copies of a book (in Russian).",
-            "project_images": [
+            "header": "”Join IT via Software Testing”, 2020-2022, B2C, writing (side-project) :: ",
+            "link": "https://intoit.tilda.ws/book",
+            "description": "Guided people who are about to transit in careers to IT with independent from online courses marketing information by writing and selling hundreds copies of a book (in Russian).",
+            "images": [
               {
                 "link": "https://www.dropbox.com/scl/fi/rudbjtou7smbwyky77fn2/main_page.png?rlkey=weyq89jiur8zaxs5a4ocfnynu&raw=1",
                 "description": "Title page"
@@ -97,10 +97,10 @@
             ]
           },
           {
-            "project_header": "”SQA Mate”, 2015-2019, B2B SaaS, SWD tools, RingCentral",
-            "project_link": "",
-            "project_description": "Dropped by 80% efforts of QA Engineers at RingCentral on manual test cases management by development of test cases management system with advanced and user centered User eXperience.",
-            "project_images": [
+            "header": "”SQA Mate”, 2015-2019, B2B SaaS, SD tools (side-project at RingCentral)",
+            "link": "",
+            "description": "Dropped by 80% efforts of QA Engineers at RingCentral on manual test cases management by development of test cases management system with advanced and user centered User eXperience.",
+            "images": [
               {
                 "link": "https://www.dropbox.com/scl/fi/88uu04iwgbettvyv80ldh/marketing_main.png?rlkey=3tqpntj0gg1ektwtrpdovoydu&raw=1",
                 "description": "Marketing web-site, main page"
@@ -116,10 +116,10 @@
             ]
           },
           {
-            "project_header": "”Pairwise”, 2019, B2C SaaS, SWD tools",
-            "project_link": "",
-            "project_description": "Empowered hundreds of QA Engineers in the world to apply pairwise testing for test cases generation faster and easily by creating a simple web UI for an existing pairwise tests library.",
-            "project_images": [
+            "header": "”Pairwise”, 2019, B2C SaaS, SD tools (side-project)",
+            "link": "",
+            "description": "Empowered hundreds of QA Engineers in the world to apply pairwise testing for test cases generation faster and easily by creating a simple web UI for an existing pairwise tests library.",
+            "images": [
               {
                 "link": "https://www.dropbox.com/scl/fi/aejce4e0ifb9t6szygxt7/main-page-no-data.png?rlkey=pm27nssjbwog4ikmpvfc6dhe8&raw=1",
                 "description": "Main page with instructions"
@@ -131,10 +131,10 @@
             ]
           },
           {
-            "project_header": "”Aport”, 2017, B2B SaaS, SWD tools, RingCentral",
-            "project_link": "",
-            "project_description": "By 2024 saved the company 3+ man-years on logs collection only by crafting a web service that enables efficient logs collection and sharing across tens of servers in tens of environments at the company.",
-            "project_images": [
+            "header": "”Aport”, 2017, B2B SaaS, SD tools (side-project at RingCentral)",
+            "link": "",
+            "description": "By 2024 saved the company 3+ man-years on logs collection only by crafting a web service that enables efficient logs collection and sharing across tens of servers in tens of environments at the company.",
+            "images": [
               {
                 "link": "https://www.dropbox.com/scl/fi/a3n0s3crh6ah3w2sqp91o/main-page.jpg?rlkey=r7fbh4uj10hg9yej7flabv8ax&raw=1",
                 "description": "Main page with logs retrieved"
@@ -155,6 +155,37 @@
           "title": "“SQA Mate test cases management system“",
           "conference": "2019, Comaqa Spring, Minsk, Belarus",
           "link": "https://www.youtube.com/embed/hfM7TQGMW2g?si=yAlWQjYZnoz8uBNu"
+        }
+      ]
+    },
+    {
+      "Interviews": [
+        {
+          "title": "“Interview with Aleksei Sotskov before QA-Meetup in Nizhny Novgorod”",
+          "link": "https://vk.com/@dins_spb-intervu-s-alekseem-sockovym"
+        }
+      ]
+    },
+    {
+      "Books": [
+        {
+          "header": "”Join IT via Software Testing”, 2020-2022 :: ",
+          "link": "https://intoit.tilda.ws/book",
+          "description": "Wrote a book (in Russian) to guide people who think about to transit in their careers to IT with independent from online courses marketing information.",
+          "images": [
+            {
+              "link": "https://www.dropbox.com/scl/fi/rudbjtou7smbwyky77fn2/main_page.png?rlkey=weyq89jiur8zaxs5a4ocfnynu&raw=1",
+              "description": "Title page"
+            },
+            {
+              "link": "https://www.dropbox.com/scl/fi/yb2y321ozhx8zvanxege6/chapters_sample.png?rlkey=oekulip4nf0f7s5gn0ac2ttgg&raw=1",
+              "description": "Section page with chapters"
+            },
+            {
+              "link": "https://www.dropbox.com/scl/fi/v62z8nyyzxuxz2wtjlcyz/chapter_directions.png?rlkey=pcg4sxl3evvcemy6gfd0327yl&raw=1",
+              "description": "Chapter example"
+            }              
+          ]
         }
       ]
     },
