@@ -15,10 +15,10 @@
         "section_explanatory_text": "Below you can list your projects:",
         "section_data": [
           {
-            "project_header": "“Bowser Fight”, 1985 :: ",
-            "project_link": "https://nintendo.com",
-            "project_description": "Here you can describe project outcomes and provide screenshots / pictures. Click on an image to open it full size.",
-            "project_images": [
+            "header": "“Bowser Fight”, 1985 :: ",
+            "link": "https://nintendo.com",
+            "description": "Here you can describe project outcomes and provide screenshots / pictures. Click on an image to open it full size.",
+            "images": [
               {
                 "link": "https://www.dropbox.com/scl/fi/fi95nlw7332r5ua49o5we/super-mario-bros-speedrun.jpg?rlkey=1tfets9ip2m8ny6979dzypurt&raw=1",
                 "description": "Jumped over Bowser"
@@ -34,6 +34,29 @@
           "title": "“Super Mario Bros. Wonder”",
           "conference": "Nintendo Direct 6.21.2023",
           "link": "https://www.youtube.com/embed/JStAYvbeSHc?si=--XUV7SNypuvuNDc"
+        }
+      ]
+    },
+    {
+      "Interviews": [
+        {
+          "title": "“The Super Mario Bros. Movie Cast Reveal Their Favorite Nintendo Games”",
+          "link": "https://www.gameinformer.com/video-interview/2023/04/05/interview-the-super-mario-bros-movie-cast-reveal-their-favorite-nintendo"
+        }
+      ]
+    },
+    {
+      "Books": [
+        {
+          "header": "“Super Mario: Meet Mario! (Nintendo®) (Step into Reading) :: ",
+          "link": "https://www.amazon.com/Meet-Mario-Nintendo-Step-Reading/dp/0593304446",
+          "description": "There's a book written about me!",
+          "images": [
+            {
+              "link": "https://www.dropbox.com/scl/fi/mem0a5hx0k3xh1eeuq721/super-mario-book.jpg?rlkey=4yuwb5ohf33rxg1iliz0t0yfg&raw=1",
+              "description": "Super Mario book"
+            }
+          ]
         }
       ]
     },
