@@ -38,15 +38,15 @@ function update_contacts(data, section_type) {
 
 function compose_project_li(data) {
   content = '<li class="li">';
-  content += `<p class="li_header"><b>${data.project_header} `;
-  let pretty_link = data.project_link.replace(/(^\w+:|^)\/\//, '');  // romove protocol
+  content += `<p class="li_header"><b>${data.header} `;
+  let pretty_link = data.link.replace(/(^\w+:|^)\/\//, '');  // romove protocol
       pretty_link = pretty_link.replace(/\/.*/, '');  // remove everything after hostname
-  content += `<a href="${data.project_link}" target="_blank">${pretty_link}</a>`;
+  content += `<a href="${data.link}" target="_blank">${pretty_link}</a>`;
   content += '</b></p>';
-  content += `<p>${data.project_description}</p>`;
+  content += `<p>${data.description}</p>`;
 
-  for (let i = 0; i < data.project_images.length; i++) {
-    const img = data.project_images[i];
+  for (let i = 0; i < data.images.length; i++) {
+    const img = data.images[i];
     content += '<a href="#" data-bs-toggle="modal" data-bs-target="#image_preview_modal">';
     content += `<img src="${img.link}" class="img-thumbnail" alt="${img.description}">`;
     content += '</a>';
@@ -110,6 +110,19 @@ function update_interviews(data, section_type) {
   return content;
 }
 
+function update_books(data, section_type) {
+  let content = compose_section_beginning(section_type);
+  content += '<div class="col-lg">';
+  content += '<ul>';
+  for (let j = 0; j < data.length; j++)
+    content += compose_project_li(data[j]);
+  
+  content += '</ul>';
+  content += '</div>';
+  content += compose_section_end();
+  return content;
+}
+
 function update_sections(data) {
   let function_to_call;
   let content = '';
@@ -126,6 +139,8 @@ function update_sections(data) {
       function_to_call = update_conferences;
     else if (section_type_lower_case == 'interviews')
       function_to_call = update_interviews;
+    else if (section_type_lower_case == 'books')
+      function_to_call = update_books;
     else
       continue;
 
