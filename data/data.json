@@ -78,25 +78,6 @@
             ]
           },
           {
-            "header": "”Join IT via Software Testing”, 2020-2022, B2C, writing (side-project) :: ",
-            "link": "https://intoit.tilda.ws/book",
-            "description": "Guided people who are about to transit in careers to IT with independent from online courses marketing information by writing and selling hundreds copies of a book (in Russian).",
-            "images": [
-              {
-                "link": "https://www.dropbox.com/scl/fi/rudbjtou7smbwyky77fn2/main_page.png?rlkey=weyq89jiur8zaxs5a4ocfnynu&raw=1",
-                "description": "Title page"
-              },
-              {
-                "link": "https://www.dropbox.com/scl/fi/yb2y321ozhx8zvanxege6/chapters_sample.png?rlkey=oekulip4nf0f7s5gn0ac2ttgg&raw=1",
-                "description": "Section page with chapters"
-              },
-              {
-                "link": "https://www.dropbox.com/scl/fi/v62z8nyyzxuxz2wtjlcyz/chapter_directions.png?rlkey=pcg4sxl3evvcemy6gfd0327yl&raw=1",
-                "description": "Chapter example"
-              }              
-            ]
-          },
-          {
             "header": "”SQA Mate”, 2015-2019, B2B SaaS, SD tools (side-project at RingCentral)",
             "link": "",
             "description": "Dropped by 80% efforts of QA Engineers at RingCentral on manual test cases management by development of test cases management system with advanced and user centered User eXperience.",
@@ -169,7 +150,7 @@
     {
       "Books": [
         {
-          "header": "”Join IT via Software Testing”, 2020-2022 :: ",
+          "header": "”Join IT via Software Testing”, 2023 :: ",
           "link": "https://intoit.tilda.ws/book",
           "description": "Wrote a book (in Russian) to guide people who think about to transit in their careers to IT with independent from online courses marketing information.",
           "images": [
