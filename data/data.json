@@ -20,11 +20,11 @@
             "description": "Encouraged Product Managers and Engineers to better sell themselves in resumes and interviews by building a GitHub-based portfolio template &mdash; so they could fork it, adjust data.json file with their data and get personal, nice-looking, responsive portfolio web-site hosted by GitHub Pages for free.",
             "images": [
               {
-                "link": "https://www.dropbox.com/scl/fi/m1ga5lh4neszvjojosesq/main_desktop.png?rlkey=pyktykpbbkcq5v875zt45jvbe&raw=1",
+                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio_template/main_desktop.png",
                 "description": "Desktop version"
               },
               {
-                "link": "https://www.dropbox.com/scl/fi/u40q8bn7grsd6a3ysw61i/main_mobile.png?rlkey=sn5wxhsa84bc0wrck1fx9ek6g&raw=1",
+                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio_template/main_mobile.png",
                 "description": "Mobile version"
               }
             ]
@@ -35,15 +35,15 @@
             "description": "Added value and improved UX for already existing and selling on Amazon and Etsy “Life Calendar” product by adding data from World Health Organization and Human Mortality Database. Currently work with 2 interior designers to make a data-art picture to decorate walls in apartments.",
             "images": [
               {
-                "link": "https://www.dropbox.com/scl/fi/c2jm8tfca8atanb3igeuo/calendarium-web.png?rlkey=fnrk1ppqugio61a2iadrbdhod&raw=1",
+                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/calendarium-web.png",
                 "description": "Web app"
               },
               {
-                "link": "https://www.dropbox.com/scl/fi/gkfosgd1hox7ix8fmzpmn/calendarium-mvp-jan-vs-feb-close.jpg?rlkey=3ud3q40ywmh3u0w72xebiu83e&raw=1",
+                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/calendarium-mvp-feb-close.jpg",
                 "description": "MVPs January vs February 2024"
               },
               {
-                "link": "https://www.dropbox.com/scl/fi/0w98gu06h8yshj2q1gse3/calendarium-mvp-april.jpg?rlkey=2mk4sapypqva0ogkgfm4oyys6&raw=1",
+                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/calendarium-mvp-april.jpg",
                 "description": "Latest (April 2024) MVP"
               }
             ]
@@ -61,7 +61,7 @@
             "description": "Developed a high fidelity real data prototype for features usage product analytics service that helps software development teams to make data-informed UX decisions and eliminate feature bloat for digital apps and services.",
             "images": [
               {
-                "link": "https://www.dropbox.com/scl/fi/op1k17zeoi6yhzko7hipn/dtu-website.png?rlkey=nypj85237ypj40iwsdhgsm53w&raw=1",
+                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/dtu/dtu-website.png",
                 "description": "Marketing web-site, main page"
               },
               {
@@ -83,15 +83,15 @@
             "description": "Dropped by 80% efforts of QA Engineers at RingCentral on manual test cases management by development of test cases management system with advanced and user centered User eXperience.",
             "images": [
               {
-                "link": "https://www.dropbox.com/scl/fi/88uu04iwgbettvyv80ldh/marketing_main.png?rlkey=3tqpntj0gg1ektwtrpdovoydu&raw=1",
+                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/sqamate/marketing_main.png",
                 "description": "Marketing web-site, main page"
               },
               {
-                "link": "https://www.dropbox.com/scl/fi/zxlvx7uezhuci5vfhanzl/acc_edit_mode.png?rlkey=pic6dbvkbr0p1y46o339sdop7&raw=1",
+                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/sqamate/acc_edit_mode.png",
                 "description": "Account, edit mode"
               },
               {
-                "link": "https://www.dropbox.com/scl/fi/ypsle8vz1lxypl6sy85eb/reports.jpg?rlkey=suuufqxe5x7je88zkyrcplnov&raw=1",
+                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/sqamate/reports.jpg",
                 "description": "Account, reports"
               }
             ]
@@ -102,11 +102,11 @@
             "description": "Empowered hundreds of QA Engineers in the world to apply pairwise testing for test cases generation faster and easily by creating a simple web UI for an existing pairwise tests library.",
             "images": [
               {
-                "link": "https://www.dropbox.com/scl/fi/aejce4e0ifb9t6szygxt7/main-page-no-data.png?rlkey=pm27nssjbwog4ikmpvfc6dhe8&raw=1",
+                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/pairwise/main-page-no-data.jpg",
                 "description": "Main page with instructions"
               },
               {
-                "link": "https://www.dropbox.com/scl/fi/gtdtsudvqhypqcitxqmmr/main-page.jpg?rlkey=2izlrwufe1arsbv8arvzhsy3v&raw=1",
+                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/pairwise/main-page.jpg",
                 "description": "Main page with data samples"
               }              
             ]
@@ -117,7 +117,7 @@
             "description": "By 2024 saved the company 3+ man-years on logs collection only by crafting a web service that enables efficient logs collection and sharing across tens of servers in tens of environments at the company.",
             "images": [
               {
-                "link": "https://www.dropbox.com/scl/fi/a3n0s3crh6ah3w2sqp91o/main-page.jpg?rlkey=r7fbh4uj10hg9yej7flabv8ax&raw=1",
+                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/aport/main-page.jpg",
                 "description": "Main page with logs retrieved"
               }              
             ]
@@ -155,15 +155,15 @@
           "description": "Wrote a book (in Russian) to guide people who think about to transit in their careers to IT with independent from online courses marketing information &mdash; so they could know what they can and shout expect and what are the myths.",
           "images": [
             {
-              "link": "https://www.dropbox.com/scl/fi/rudbjtou7smbwyky77fn2/main_page.png?rlkey=weyq89jiur8zaxs5a4ocfnynu&raw=1",
+              "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/intoit/main_page.png",
               "description": "Title page"
             },
             {
-              "link": "https://www.dropbox.com/scl/fi/yb2y321ozhx8zvanxege6/chapters_sample.png?rlkey=oekulip4nf0f7s5gn0ac2ttgg&raw=1",
+              "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/intoit/chapters_sample.png",
               "description": "Section page with chapters"
             },
             {
-              "link": "https://www.dropbox.com/scl/fi/v62z8nyyzxuxz2wtjlcyz/chapter_directions.png?rlkey=pcg4sxl3evvcemy6gfd0327yl&raw=1",
+              "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/intoit/chapter_directions.png",
               "description": "Chapter example"
             }              
           ]
