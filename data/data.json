@@ -40,11 +40,19 @@
               },
               {
                 "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/calendarium-mvp-feb-close.jpg",
-                "description": "MVPs January vs February 2024"
+                "description": "Prototypes January vs February 2024"
               },
               {
                 "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/calendarium-mvp-april.jpg",
-                "description": "Latest (April 2024) MVP"
+                "description": "April 2024 Prototype"
+              },
+              {
+                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/calendarium-mvp-may.jpg",
+                "description": "May 2024 Prototype"
+              },
+              {
+                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/calendarium-mvp-may-explained.png",
+                "description": "May 2024 Prototype explained"
               }
             ]
           },
