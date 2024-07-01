@@ -7,13 +7,28 @@
     {
       "About": {
         "section_explanatory_text": "",
-        "section_data": "Builder at heart, ex Product Software Engineer and currently a Product Manager who makes products with deep and lasting feeling of exceptional care. I fall in love with the problems, not solutions, and build products the way that customers love yet that works for the business. Currently I am looking for a Product Manager job in an Empowered Product Team working in a Product Operating Model primarily in Northern Europe."
+        "section_data": "Builder at heart, ex Product Software Engineer and currently a Product Manager who makes products with deep and lasting feeling of exceptional care. Currently I am looking for a Product Manager job in an Empowered Product Team working in a Product Operating Model primarily in Northern Europe."
       }
     },
     {
       "Projects": {
-        "section_explanatory_text": "I solve problems for businesses and learn by making contract work and side-projects. Check out descriptions, screenshots, GIFs, videos and direct links for each of 10+ of my products:",
+        "section_explanatory_text": "Check out descriptions, screenshots, GIFs, videos and direct links for each of 10+ of my contract work, at-work and personal side-projects:",
         "section_data": [
+          {
+            "header": "“Personal Knowledge Base”, 2024, B2C, education (side-project) :: ",
+            "link": "https://linkedin.com/posts/aleksei-sotskov_chrome-sidebar-knowledgebase-activity-7203491068661698560-0esD",
+            "description": "Solve FOMO problem and streamline education for the people who study a lot and have lots of opened tabs in their browsers with tons of materials to read, watch and listen by building an AI-powered (Gemini Nano) Personal Knowledge Base Assistant in their Google Chrome web-browser side panel.",
+            "images": [
+              {
+                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/pkb/context-menu-2.gif",
+                "description": "Save to learn from context menu"
+              },
+              {
+                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/pkb/save-dblclick.gif",
+                "description": "Automatically parse the page to save the link"
+              }              
+            ]
+          },
           {
             "header": "“Portfolio Template”, 2024, B2C, marketing (side-project) :: ",
             "link": "https://github.com/alexeyhimself/portfolio_template",
@@ -185,6 +200,7 @@
           {"label": "Email", "display_text": "alexeyhimself@gmail.com", "link": "mailto:alexeyhimself@gmail.com"},
           {"label": "DockerHub", "display_text": "alexeyhimself", "link": "https://hub.docker.com/r/alexeyhimself"},
           {"label": "GitHub", "display_text": "alexeyhimself", "link": "https://github.com/alexeyhimself"},
+          {"label": "Miroverse", "display_text": "alexeyhimself", "link": "https://miro.com/miroverse/profile/alexeyhimself"},
           {"label": "YouTube", "display_text": "alexeyhimself", "link": "https://www.youtube.com/@alexeyhimself/videos"},
           {"label": "Social", "display_text": "LinkedIn", "link": "https://www.linkedin.com/in/aleksei-sotskov"},
           {"label": "Blog", "display_text": "Medium", "link": "https://alexeyhimself.medium.com"}
