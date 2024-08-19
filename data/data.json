@@ -7,7 +7,7 @@
     {
       "About": {
         "section_explanatory_text": "",
-        "section_data": "Builder at heart, I create products the way customers love yet that works for the business. My Product Management roots in Technology: I worked as a Product Software Engineer for 12+ years making contract work, personal and at-work side-projects as a Product Manager. Currently looking for a Product Manager job in an Empowered Product Team working in a Product Operating Model primarily in Northern Europe."
+        "section_data": "Builder at heart, I create products the way customers love yet that work for the business. My Product Management roots in Technology: I worked as a Product Software Engineer for 12+ years making contract work, personal and at-work side-projects as a Product Manager."
       }
     },
     {
@@ -15,9 +15,9 @@
         "section_explanatory_text": "Check out descriptions, screenshots, GIFs, videos and direct links for each of 10+ of my contract work, at-work and personal side-projects:",
         "section_data": [
           {
-            "header": "Gemini AI powered “Personal Knowledge Base” in a Google Chrome web-browser, 2024, B2C, education (side-project) :: ",
-            "link": "https://github.com/alexeyhimself/sidebar-kb",
-            "description": "Solve FOMO problem and streamline education for the people who study a lot and have lots of opened tabs in their browsers with tons of materials to read, watch and listen by building an AI-powered (Gemini Nano) Personal Knowledge Base Assistant in their Google Chrome web-browser side panel.",
+            "header": "“Knowledge Base” &mdash; Google Chrome side panel extension powered by Gemini Nano AI, 2024, B2C, education (side-project) :: ",
+            "link": "http://getknowledgebaseapp.com",
+            "description": "Streamline education and solve FOMO problem for the people who study a lot and have lots of opened tabs in their browsers with tons of materials to read, watch and listen by building an AI-powered Personal Knowledge Base Assistant in their Google Chrome web-browser side panel.",
             "images": [
               {
                 "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/pkb/context-menu-2.gif",
@@ -30,7 +30,7 @@
             ]
           },
           {
-            "header": "“Portfolio Template”, 2024, B2C, marketing (side-project) :: ",
+            "header": "“Portfolio Template” &mdash; template repository on GitHub with portfolio published on GitHub Pages, 2024, B2C, marketing (side-project) :: ",
             "link": "https://github.com/alexeyhimself/portfolio_template",
             "description": "Encouraged Product Managers and Engineers to better sell themselves in resumes and interviews by building a GitHub-based portfolio template &mdash; so they could fork it, adjust data.json file with their data and get personal, nice-looking, responsive portfolio web-site hosted by GitHub Pages for free.",
             "images": [
@@ -45,9 +45,9 @@
             ]
           },
           {
-            "header": "“Calendarium”, 2024, B2C, healthcare (side-project) :: ",
+            "header": "“Calendarium” &mdash; automated and enriched with data from WHO and HMD version of “Life Calendar”, 2024, B2C, healthcare (side-project) :: ",
             "link": "https://calendarium.me",
-            "description": "Added value and improved UX for already existing and selling on Amazon and Etsy “Life Calendar” product by adding data from World Health Organization and Human Mortality Database. Currently work with 2 interior designers and Product Marketer to make a data-art picture to decorate walls in apartments and make a sellable product by the end of 2024.",
+            "description": "Added value and improved UX for already existing and selling on Amazon and Etsy “Life Calendar” product by adding data from World Health Organization (WHO) and Human Mortality Database (HMD). Currently work with 2 interior designers and Product Marketer to make a data-art picture to decorate walls in apartments and make a sellable product by the end of 2024.",
             "images": [
               {
                 "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/calendarium-web.png",
