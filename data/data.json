@@ -170,12 +170,12 @@
       "Conferences": [
         {
           "title": "“Write test cases titles better!”",
-          "conference": "2019, Comaqa Autumn, St.Petersburg, Russia",
+          "conference": " &mdash; my speech at the conference, 2019, Comaqa Autumn, St.Petersburg, Russia",
           "link": "https://www.youtube.com/embed/feVgbebslfk?si=xfttInE4pmiIfd_U"
         }, 
         {
           "title": "“SQA Mate test cases management system“",
-          "conference": "2019, Comaqa Spring, Minsk, Belarus",
+          "conference": " &mdash; my speech at the conference, 2019, Comaqa Spring, Minsk, Belarus",
           "link": "https://www.youtube.com/embed/hfM7TQGMW2g?si=yAlWQjYZnoz8uBNu"
         }
       ]
@@ -194,7 +194,7 @@
           "name": "Join IT via Software Testing",
           "header": "wrote a book, 2023",
           "link": "https://intoit.tilda.ws/book",
-          "description": "A book (in Russian) to guide people who think about to transit in their careers to IT with independent from online courses marketing information &mdash; so they could know what they can and shoud expect and what are the myths.",
+          "description": "A book (in Russian) written to guide people who think about to transit in their careers to IT with independent from online courses marketing information &mdash; so they could know what they can and shoud expect and what are the myths.",
           "images": [
             {
               "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/intoit/main_page.png",
