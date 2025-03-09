@@ -38,19 +38,46 @@ function update_contacts(data, section_type) {
 
 function compose_project_li(data) {
   content = '<li class="li">';
-  content += `<p class="li_header"><b>${data.header} `;
-  let pretty_link = data.link.replace(/(^\w+:|^)\/\//, '');  // romove protocol
-      pretty_link = pretty_link.replace(/\/.*/, '');  // remove everything after hostname
-  content += `<a href="${data.link}" target="_blank">${pretty_link}</a>`;
+  content += `<p class="li_header"><b>`;
+  if (data.link)
+    content += `“<a href="${data.link}" target="_blank">${data.name}</a>” &mdash; ${data.header} `;
+  else
+    content += `“${data.name}” &mdash; ${data.header} `;
+  //let pretty_link = data.link.replace(/(^\w+:|^)\/\//, '');  // romove protocol
+  //    pretty_link = pretty_link.replace(/\/.*/, '');  // remove everything after hostname
+  //content += `<a href="${data.link}" target="_blank">${pretty_link}</a>`;
   content += '</b></p>';
-  content += `<p>${data.description}</p>`;
 
-  for (let i = 0; i < data.images.length; i++) {
-    const img = data.images[i];
-    content += '<a href="#" data-bs-toggle="modal" data-bs-target="#image_preview_modal">';
-    content += `<img src="${img.link}" class="img-thumbnail" alt="${img.description}">`;
-    content += '</a>';
+  const description = data.description.split('\n');
+  if (description.length > 1) {
+    content += '<ul>';
+    description.forEach((paragraph) => {
+      content += `<li class="li_paragraph">${paragraph}</li>`;
+    });
+    content += '</ul>';
   }
+  else {
+    content += `<p class="li_paragraph">${description[0]}</p>`;
+  }
+
+  content += '<div style="display: flex; flex-wrap: wrap;">';
+
+  if (data.videos) {
+    data.videos.forEach((video) => {
+      content += `<iframe class="img-thumbnail" width="50%" height="auto" src="${video.link}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
+    });
+  }
+
+  if (data.images) {
+    for (let i = 0; i < data.images.length; i++) {
+      const img = data.images[i];
+      content += '<a href="#" data-bs-toggle="modal" data-bs-target="#image_preview_modal">';
+      content += `<img src="${img.link}" class="img-thumbnail" alt="${img.description}">`;
+      content += '</a>';
+    }
+  }
+
+  content += '</div>';
 
   content += '</li>';
   return content;

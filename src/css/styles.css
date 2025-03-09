@@ -63,6 +63,9 @@ a {
 .li_header {
   margin-bottom: 0.5rem;
 }
+.li_paragraph {
+  margin-bottom: 0.3em;
+}
 #image_preview {
   max-height: 80vh;
   max-width: 80vw;
