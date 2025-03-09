@@ -15,24 +15,35 @@
         "section_explanatory_text": "Check out descriptions, screenshots, GIFs, videos and direct links for each of 10+ of my contract work, at-work and personal side-projects:",
         "section_data": [
           {
-            "header": "“Knowledge Base” &mdash; Google Chrome side panel extension powered by Gemini Nano AI, 2024, B2C, education (side-project) :: ",
+            "name": "Knowledge Base",
+            "header": "Google Chrome side panel extension powered by Gemini Nano AI, 2024, B2C, education (side-project)",
             "link": "http://getknowledgebaseapp.com",
-            "description": "Streamline education and solve FOMO problem for the people who study a lot and have lots of opened tabs in their browsers with tons of materials to read, watch and listen by building an AI-powered Personal Knowledge Base Assistant in their Google Chrome web-browser side panel.",
+            "description": "“Knowledge Base” app streamlines education and solves FOMO problem for the people who study a lot and have lots of opened tabs in their browsers with tons of materials to read, watch and listen. The app <a href=\"https://ai.google.dev/competition/projects/knowledge-base\" target=\"_blank\">competed</a> in <a href=\"https://ai.google.dev/competition\" target=\"_blank\">Google Gemini AI Competition</a> held in 2024.",
+            "videos": [
+              {
+                "link": "https://www.youtube.com/embed/oI9sLIaceek?si=-1dQWGSK68TP3FW2"
+              }
+            ],
             "images": [
               {
-                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/pkb/context-menu-2.gif",
-                "description": "Save to learn from context menu"
+                "link": "https://www.dropbox.com/scl/fi/w2u8sfndf2a9ikh4wnvcw/kb-s.png?rlkey=pt9f6h3i5tce4k4f0mu97qeev&raw=1",
+                "description": "Save page"
               },
               {
-                "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/pkb/save-dblclick.gif",
-                "description": "Automatically parse the page to save the link"
-              }              
+                "link": "https://www.dropbox.com/scl/fi/bktsz2sk68vm79mp76s0j/kb-q.png?rlkey=kryai7o2zjnts6du9hmydpvjj&raw=1",
+                "description": "Queue to learn"
+              },
+              {
+                "link": "https://www.dropbox.com/scl/fi/ggx2cnsqzc7dcv62505t0/kb-kb.png?rlkey=194qfpixp9pi66k369c3l1tg5&raw=1",
+                "description": "Knowledge base"
+              }
             ]
           },
           {
-            "header": "“Portfolio Template” &mdash; template repository on GitHub with portfolio published on GitHub Pages, 2024, B2C, marketing (side-project) :: ",
+            "name": "Portfolio Template",
+            "header": "template repository on GitHub with portfolio published on GitHub Pages, 2024, B2C, marketing (side-project)",
             "link": "https://github.com/alexeyhimself/portfolio_template",
-            "description": "Encouraged Product Managers and Engineers to better sell themselves in resumes and interviews by building a GitHub-based portfolio template &mdash; so they could fork it, adjust data.json file with their data and get personal, nice-looking, responsive portfolio web-site hosted by GitHub Pages for free.",
+            "description": "“Portfolio Template” allows Product Managers and Engineers to better sell themselves in resumes and interviews by using personal, nice-looking, responsive portfolio web-site hosted by GitHub Pages for free.",
             "images": [
               {
                 "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio_template/main_desktop.png",
@@ -45,9 +56,10 @@
             ]
           },
           {
-            "header": "“Calendarium” &mdash; automated and enriched with data from WHO and HMD version of “Life Calendar”, 2024, B2C, healthcare (side-project) :: ",
+            "name": "Calendarium",
+            "header": "automated and enriched with data from WHO and HMD version of “Life Calendar”, 2024, B2C, healthcare (side-project)",
             "link": "https://togetherisbetter.github.io/calendarium",
-            "description": "Added value and improved UX for already existing and selling on Amazon and Etsy “Life Calendar” product by adding data from World Health Organization (WHO) and Human Mortality Database (HMD). Currently work with 2 interior designers and Product Marketer to make a data-art picture to decorate walls in apartments and make a sellable product by the end of 2024.",
+            "description": "Added value and improved UX for already existing and selling on <a href=\"https://www.amazon.com/LifeTimeTM-Weeks-Poster-Memento-Calendar/dp/B0C49TXX73?th=1\" target=\"_blank\">Amazon</a> and <a href=\"https://www.etsy.com/listing/1071238504/90-year-life-calendar-in-weeks-memento\" target=\"_blank\">Etsy</a> “Life Calendar” product by adding data from World Health Organization (WHO) and Human Mortality Database (HMD).",
             "images": [
               {
                 "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/calendarium-web.png",
@@ -72,14 +84,16 @@
             ]
           },
           {
-            "header": "”Ubergram”, private app, 2023, B2B, travel (contract work)",
+            "name": "Ubergram",
+            "header": "private Telegram bot built for a travel business entrepreneur in Montenegro, 2023, B2B, travel (contract work)",
             "link": "",
-            "description": "Saved an entrepreneur in Montenegro hours of time every day by applying a chat-bot that automatically processes thousands of daily messages in different Telegram chats. Increased sales by 15%+ by contacting prospects faster than competitors using this chat-bot.",
+            "description": "10x reduced chats monitoring time for an entrepreneur by building a chat-bot that processes thousands of daily messages across 5 chats and notifies an entrepreneur about prospects.\n15%+ ARR increased sales for an entrepreneur by allowing them to reach prospects with compelling offers faster than competitors.",
             "images": [
             ]
           },
           {
-            "header": "”DoTheyUse”, 2023, B2B SaaS, analytics (side-project) :: ",
+            "name": "DoTheyUse",
+            "header": "2023, B2B SaaS, analytics (side-project)",
             "link": "https://alexeyhimself.github.io/dtu_gw",
             "description": "Developed a high fidelity real-data prototype for features usage product analytics service that helps software development teams to make data-informed UX decisions and eliminate feature bloat for digital apps and services.",
             "images": [
@@ -94,16 +108,18 @@
             ]
           },
           {
-            "header": "”Procurements Alert”, private app, 2022, B2B, services (contract work)",
+            "name": "Procurements Alert",
+            "header": "private Telegram bot built for a cleaning services business entrepreneur in Russia, 2022, B2B, services (contract work)",
             "link": "",
-            "description": "x2 increased sales for a cleaning services entrepreneur in Russia by building and selling a Telegram bot that automatically parses, filters and detects only wanted procurement orders faster than competitors.",
+            "description": "Solved \"lots of missed orders\" problem for an entrepreneur by building a bot that parses, filters, detects and notifies about relevant procurement orders faster than competitors.\n2x increased entrepreneur’s MRR within the first 6 months of bot usage.",
             "images": [
             ]
           },
           {
-            "header": "”SQA Mate”, 2015-2019, B2B SaaS, SD tools (side-project at RingCentral)",
+            "name": "SQA Mate",
+            "header": "in-house service built for an advanced management of tens of thousands of manual test cases in the company, 2015-2019, B2B SaaS, SD tools (side-project at RingCentral)",
             "link": "",
-            "description": "Dropped by 80% efforts of QA Engineers at RingCentral on manual test cases management by development of test cases management system with advanced and user centered User eXperience.",
+            "description": "Identified pain points of QA Engineers and stakeholders and built and refined service MVPs with them on a daily basis.\nEstablished DevOps procedures for fast and secure daily shipments of updates to real users.\nSaved 80% of QA Engineers efforts on manual test cases management by development of test cases management system with user centred UX.",
             "images": [
               {
                 "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/sqamate/marketing_main.png",
@@ -120,7 +136,8 @@
             ]
           },
           {
-            "header": "”Pairwise”, 2019, B2C SaaS, SD tools (side-project)",
+            "name": "Pairwise",
+            "header": "2019, B2C SaaS, SD tools (side-project)",
             "link": "",
             "description": "Empowered hundreds of QA Engineers in the world to apply pairwise testing for test cases generation faster and easily by creating a simple web UI for an existing pairwise tests library.",
             "images": [
@@ -135,9 +152,10 @@
             ]
           },
           {
-            "header": "”Aport”, 2017, B2B SaaS, SD tools (side-project at RingCentral)",
+            "name": "Aport",
+            "header": "in-house web-app built for effective logs collection and sharing across tens of servers in tens of environments at the company, 2017, B2B SaaS, SD tools (side-project at RingCentral)",
             "link": "",
-            "description": "By 2024 saved the company 3+ man-years on logs collection only by crafting a web service that enables efficient logs collection and sharing across tens of servers in tens of environments at the company.",
+            "description": "Conducted weekly UX interviews with different user groups and stakeholders, yielding actionable insights that led to significant improvements of user satisfaction metrics.\nBy 2024 saved for RingCentral $120K+ on logs collection only.",
             "images": [
               {
                 "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/aport/main-page.jpg",
@@ -173,7 +191,7 @@
     {
       "Books": [
         {
-          "header": "”Join IT via Software Testing”, 2023 :: ",
+          "header": "”Join IT via Software Testing”, 2023",
           "link": "https://intoit.tilda.ws/book",
           "description": "Wrote a book (in Russian) to guide people who think about to transit in their careers to IT with independent from online courses marketing information &mdash; so they could know what they can and shoud expect and what are the myths.",
           "images": [
