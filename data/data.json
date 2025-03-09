@@ -191,9 +191,10 @@
     {
       "Books": [
         {
-          "header": "”Join IT via Software Testing”, 2023",
+          "name": "Join IT via Software Testing",
+          "header": "wrote a book, 2023",
           "link": "https://intoit.tilda.ws/book",
-          "description": "Wrote a book (in Russian) to guide people who think about to transit in their careers to IT with independent from online courses marketing information &mdash; so they could know what they can and shoud expect and what are the myths.",
+          "description": "A book (in Russian) to guide people who think about to transit in their careers to IT with independent from online courses marketing information &mdash; so they could know what they can and shoud expect and what are the myths.",
           "images": [
             {
               "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/intoit/main_page.png",
