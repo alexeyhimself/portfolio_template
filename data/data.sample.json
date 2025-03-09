@@ -15,7 +15,8 @@
         "section_explanatory_text": "Below you can list your projects:",
         "section_data": [
           {
-            "header": "“Bowser Fight”, 1985 :: ",
+            "name": "Bowser Fight",
+            "header": "1985",
             "link": "https://nintendo.com",
             "description": "Here you can describe project outcomes and provide screenshots / pictures. Click on an image to open it full size.",
             "images": [
@@ -48,7 +49,8 @@
     {
       "Books": [
         {
-          "header": "“Super Mario: Meet Mario! (Nintendo®) (Step into Reading) :: ",
+          "name": "Super Mario: Meet Mario! (Nintendo®) (Step into Reading)",
+          "header": "",
           "link": "https://www.amazon.com/Meet-Mario-Nintendo-Step-Reading/dp/0593304446",
           "description": "There's a book written about me!",
           "images": [
