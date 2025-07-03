@@ -15,10 +15,26 @@
         "section_explanatory_text": "Check out descriptions, screenshots, GIFs, videos and direct links for each of 10+ of my contract work, at-work and personal side-projects:",
         "section_data": [
           {
+            "name": "AI therapist",
+            "header": "an MVP of an AI therapist built on a Telegram chatbot.",
+            "description": "“AI therapist” MVP v1 was launched on May 2025 and currently is in looking for a PMF state.",
+            "videos": [
+              {
+                "link": "https://www.youtube.com/embed/BlZO26PShnA"
+              }
+            ],
+            "images": [
+              {
+                "link": "https://www.dropbox.com/scl/fi/8amd48f972iuuu9pwmklh/fg-1.jpg?rlkey=sj5vw3n5qbax6mrhrws0h81jv&raw=1",
+                "description": "AI generated logo"
+              }
+            ]
+          },
+          {
             "name": "Farmers Goods",
             "link": "https://telegram.me/farmersgoods",
             "header": "an MVP of a horizontal classifier for perishable goods from locals for locals, built on a Telegram bot.",
-            "description": "“Farmers Goods” MVP v1 was launched on April 4, 2025 to help local sellers of perishable goods (forest and garden berries, vegetables, mushrooms, fresh fish, greens, etc.) and local buyers to find each other fast and easy in a high season of Summer 2025. 3 towns are connected to test the problem and the demand.",
+            "description": "“Farmers Goods” MVP v1 was launched on April, 2025 to help local sellers of perishable goods (forest and garden berries, vegetables, mushrooms, fresh fish, greens, etc.) and local buyers to find each other fast and easy in a high season of Summer 2025. 3 towns are connected to test the problem and the demand.",
             "images": [
               {
                 "link": "https://www.dropbox.com/scl/fi/8amd48f972iuuu9pwmklh/fg-1.jpg?rlkey=sj5vw3n5qbax6mrhrws0h81jv&raw=1",
@@ -33,16 +49,16 @@
                 "description": "Analytics built to understand goods types demand in every town"
               },
               {
+                "link": "https://www.dropbox.com/scl/fi/ckynhr22poilke6n8rtd5/fg-6.png?rlkey=uxpfa1lbkynb3uw194ixgql4i&raw=1",
+                "description": "Example of the ad published by a seller: pepper"
+              },
+              {
                 "link": "https://www.dropbox.com/scl/fi/2lb0z1gxpeyfk4lnp6wf0/fg-4.png?rlkey=85ky35o2t8ams8bse9ggyjd26&raw=1",
                 "description": "Example of the ad published by a seller: eggs"
               },
               {
                 "link": "https://www.dropbox.com/scl/fi/sk4nz7tojjopkmm0tgynl/fg-5.png?rlkey=iyctb6de203dkan5gwme925r7&raw=1",
                 "description": "Example of the ad published by a seller: cheese"
-              },
-              {
-                "link": "https://www.dropbox.com/scl/fi/ckynhr22poilke6n8rtd5/fg-6.png?rlkey=uxpfa1lbkynb3uw194ixgql4i&raw=1",
-                "description": "Example of the ad published by a seller: pepper"
               }
             ]
           },
