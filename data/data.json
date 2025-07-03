@@ -1,7 +1,7 @@
 {
   "full_name": "Aleksei Sotskov",
   "meta_description": "Aleksei Sotskov's Product Management Portfolio web-site",
-  "meta_keywords": "Aleksei Sotskov, portfolio, Product Manager",
+  "meta_keywords": "Aleksei Sotskov, Product Manager, portfolio",
   "pitch": "Product Manager with engineering & entrepreneurship backgrounds and passion for solving real problems for the customers and businesses",
   "sections": [
     {
@@ -89,6 +89,10 @@
             "link": "",
             "description": "10x reduced chats monitoring time for an entrepreneur by building a chat-bot that processes thousands of daily messages across 5 chats and notifies an entrepreneur about prospects.\n15%+ ARR increased sales for an entrepreneur by allowing them to reach prospects with compelling offers faster than competitors.",
             "images": [
+              {
+                "link": "https://www.dropbox.com/scl/fi/ygqsvo4fh1jb09anll8oi/uber.me.png?rlkey=vx15o3geoqnw7tu6neze60pkb&raw=1",
+                "description": "View of a private Telegram chat with filtered transfer requests"
+              }
             ]
           },
           {
