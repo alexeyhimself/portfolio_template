@@ -66,7 +66,7 @@ function compose_project_li(data) {
 
   if (data.videos) {
     data.videos.forEach((video) => {
-      content += `<iframe class="img-thumbnail" width="50%" height="auto" src="${video.link}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
+      content += `<iframe class="img-thumbnail" width="42%" height="auto" src="${video.link}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
     });
   }
 
@@ -211,6 +211,7 @@ function run_post_fetch_routines(data) {
 }
 
 window.onload = function() {
+  //fetch('https://togetherisbetter.github.io/portfolio/data/data.json')
   fetch('data/data.json')
     .then((response) => response.json())
     .then((data) => {
