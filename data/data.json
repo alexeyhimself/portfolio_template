@@ -15,6 +15,34 @@
         "section_explanatory_text": "Check out descriptions, screenshots, GIFs, videos and direct links for each of 10+ of my contract work, at-work and personal side-projects:",
         "section_data": [
           {
+            "name": "Podarkin",
+            "header": "Telegram mini-app created to draw pre-New Year gifts from local brands among the citizens of a town.",
+            "description": "“Podarkin” MVP launched on December 1, 2024 and drawn presents every day till December 31, 2024 to test the idea of increasing of local brands sales through the draws.",
+            "videos": [
+              {
+                "link": "https://www.youtube.com/embed/TJ155W9OeLU"
+              }
+            ],
+            "images": [
+              {
+                "link": "https://www.dropbox.com/scl/fi/tjeufm0sinr1d9xkv1uvp/podarkin-1.png?rlkey=cv33j950o2iqc3ase9wb4hnj0&raw=1",
+                "description": "Save page"
+              },
+              {
+                "link": "https://www.dropbox.com/scl/fi/3xme3kprjhyqbc5abeoz3/podarkin-2.png?rlkey=6sw1k9cv0vubav0ejyvoexzd2&raw=1",
+                "description": "Queue to learn"
+              },
+              {
+                "link": "https://www.dropbox.com/scl/fi/yvj8rykwmikbjdjn8fbyt/podarkin-3.png?rlkey=t4ptflye0ut8svxoxku2bx60y&raw=1",
+                "description": "Knowledge base"
+              },
+              {
+                "link": "https://www.dropbox.com/scl/fi/0dx19ublkyaglms3g6byl/podarkin-4.jpg?rlkey=hwbwye9sj0g92pw0c60p9mazs&raw=1",
+                "description": "Knowledge base"
+              }
+            ]
+          },
+          {
             "name": "Knowledge Base",
             "header": "Google Chrome side panel extension powered by Gemini Nano AI, 2024, B2C, education (side-project)",
             "link": "http://getknowledgebaseapp.com",
@@ -63,23 +91,23 @@
             "images": [
               {
                 "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/calendarium-web.png",
-                "description": "Web app"
+                "description": "Web app view (February 2024)"
               },
               {
                 "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/calendarium-mvp-feb-close.jpg",
-                "description": "Prototypes January vs February 2024"
+                "description": "Paper prototype on a wall (March 2024)"
               },
               {
                 "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/calendarium-mvp-april.jpg",
-                "description": "April 2024 Prototype"
+                "description": "Real picture, 1 person 2 countries (April 2024)"
               },
               {
                 "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/calendarium-mvp-may.jpg",
-                "description": "May 2024 Prototype"
+                "description": "Real picture, 5 persons 1 country (May 2024)"
               },
               {
                 "link": "https://s3-portfolio-files.s3.eu-west-1.amazonaws.com/portfolio/calendarium-mvp-may-explained.png",
-                "description": "May 2024 Prototype explained"
+                "description": "Latest (May 2024) Prototype explained"
               }
             ]
           },
@@ -87,7 +115,7 @@
             "name": "Ubergram",
             "header": "private Telegram bot built for a travel business entrepreneur in Montenegro, 2023, B2B, travel (contract work)",
             "link": "",
-            "description": "10x reduced chats monitoring time for an entrepreneur by building a chat-bot that processes thousands of daily messages across 5 chats and notifies an entrepreneur about prospects.\n15%+ ARR increased sales for an entrepreneur by allowing them to reach prospects with compelling offers faster than competitors.",
+            "description": "10x reduced chats monitoring time for an entrepreneur by building a chat-bot that processes thousands of daily messages across 5 chats and notifies an entrepreneur about prospects.\n15%+ ARR increased sales for an entrepreneur by allowing them to reach prospects with compelling offers faster than competitors.\nIn service 24/7 since Autumn 2023.",
             "images": [
               {
                 "link": "https://www.dropbox.com/scl/fi/ygqsvo4fh1jb09anll8oi/uber.me.png?rlkey=vx15o3geoqnw7tu6neze60pkb&raw=1",
