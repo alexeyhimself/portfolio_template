@@ -17,24 +17,24 @@
           {
             "name": "Farmer's Goods",
             "link": "https://telegram.me/farmersgoods",
-            "header": "an MVP of a horizontal classifier for perishable goods from locals built on a Telegram bot.",
+            "header": "an MVP of a horizontal classifier for perishable goods from locals for locals, built on a Telegram bot.",
             "description": "“Farmer's Goods” MVP was launched on April 4, 2025 to help local sellers of perishable goods (forest and garden berries, vegetables, mushrooms, fresh fish, greens, etc.) and local buyers to find each other fast and easy in a high season of Summer 2025.",
             "images": [
               {
                 "link": "https://www.dropbox.com/scl/fi/8amd48f972iuuu9pwmklh/fg-1.jpg?rlkey=sj5vw3n5qbax6mrhrws0h81jv&raw=1",
-                "description": "Survey results table example for 1 of the brands (October 2024)"
-              },
-              {
-                "link": "https://www.dropbox.com/scl/fi/cfdkh5pxzmyosp43bghja/fg-2.png?rlkey=ifk85irtyg37sw64mbryp9x4c&raw=1",
-                "description": "Survey results table example for 1 of the brands (October 2024)"
+                "description": "AI generated logo"
               },
               {
                 "link": "https://www.dropbox.com/scl/fi/e91shi483rq857gxotqo6/fg-3.png?rlkey=ipq6fr0zjujrxgn1o71rctiuc&raw=1",
-                "description": "Survey results table example for 1 of the brands (October 2024)"
+                "description": "Example of setup survey in a bot"
               },
               {
                 "link": "https://www.dropbox.com/scl/fi/2lb0z1gxpeyfk4lnp6wf0/fg-4.png?rlkey=85ky35o2t8ams8bse9ggyjd26&raw=1",
-                "description": "Survey results table example for 1 of the brands (October 2024)"
+                "description": "Example of the ad published by a seller"
+              },
+              {
+                "link": "https://www.dropbox.com/scl/fi/cfdkh5pxzmyosp43bghja/fg-2.png?rlkey=ifk85irtyg37sw64mbryp9x4c&raw=1",
+                "description": "Analytics built to analyse demand in every city"
               }
             ]
           },
