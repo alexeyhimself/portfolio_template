@@ -48,16 +48,18 @@ function compose_project_li(data) {
   //content += `<a href="${data.link}" target="_blank">${pretty_link}</a>`;
   content += '</b></p>';
 
-  const description = data.description.split('\n');
-  if (description.length > 1) {
-    content += '<ul>';
-    description.forEach((paragraph) => {
-      content += `<li class="li_paragraph">${paragraph}</li>`;
-    });
-    content += '</ul>';
-  }
-  else {
-    content += `<p class="li_paragraph">${description[0]}</p>`;
+  if (data.description) {
+    const description = data.description.split('\n');
+    if (description.length > 1) {
+      content += '<ul>';
+      description.forEach((paragraph) => {
+        content += `<li class="li_paragraph">${paragraph}</li>`;
+      });
+      content += '</ul>';
+    }
+    else {
+      content += `<p class="li_paragraph">${description[0]}</p>`;
+    }
   }
 
   content += '<div style="display: flex; flex-wrap: wrap;">';
