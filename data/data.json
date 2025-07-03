@@ -15,10 +15,10 @@
         "section_explanatory_text": "Check out descriptions, screenshots, GIFs, videos and direct links for each of 10+ of my contract work, at-work and personal side-projects:",
         "section_data": [
           {
-            "name": "Farmer's Goods",
+            "name": "Farmers Goods",
             "link": "https://telegram.me/farmersgoods",
             "header": "an MVP of a horizontal classifier for perishable goods from locals for locals, built on a Telegram bot.",
-            "description": "“Farmer's Goods” MVP was launched on April 4, 2025 to help local sellers of perishable goods (forest and garden berries, vegetables, mushrooms, fresh fish, greens, etc.) and local buyers to find each other fast and easy in a high season of Summer 2025. 3 towns are connected to test the problem and the demand.",
+            "description": "“Farmers Goods” MVP v1 was launched on April 4, 2025 to help local sellers of perishable goods (forest and garden berries, vegetables, mushrooms, fresh fish, greens, etc.) and local buyers to find each other fast and easy in a high season of Summer 2025. 3 towns are connected to test the problem and the demand.",
             "images": [
               {
                 "link": "https://www.dropbox.com/scl/fi/8amd48f972iuuu9pwmklh/fg-1.jpg?rlkey=sj5vw3n5qbax6mrhrws0h81jv&raw=1",
@@ -29,6 +29,10 @@
                 "description": "Example of client setup survey (landing) in a bot"
               },
               {
+                "link": "https://www.dropbox.com/scl/fi/cfdkh5pxzmyosp43bghja/fg-2.png?rlkey=ifk85irtyg37sw64mbryp9x4c&raw=1",
+                "description": "Analytics built to understand goods types demand in every town"
+              },
+              {
                 "link": "https://www.dropbox.com/scl/fi/2lb0z1gxpeyfk4lnp6wf0/fg-4.png?rlkey=85ky35o2t8ams8bse9ggyjd26&raw=1",
                 "description": "Example of the ad published by a seller: eggs"
               },
@@ -37,12 +41,8 @@
                 "description": "Example of the ad published by a seller: cheese"
               },
               {
-                "link-": "https://www.dropbox.com/scl/fi/ckynhr22poilke6n8rtd5/fg-6.png?rlkey=uxpfa1lbkynb3uw194ixgql4i&raw=1",
-                "description-": "Example of the ad published by a seller: pepper"
-              },
-              {
-                "link": "https://www.dropbox.com/scl/fi/cfdkh5pxzmyosp43bghja/fg-2.png?rlkey=ifk85irtyg37sw64mbryp9x4c&raw=1",
-                "description": "Analytics built to understand goods types demand in every town"
+                "link": "https://www.dropbox.com/scl/fi/ckynhr22poilke6n8rtd5/fg-6.png?rlkey=uxpfa1lbkynb3uw194ixgql4i&raw=1",
+                "description": "Example of the ad published by a seller: pepper"
               }
             ]
           },
@@ -50,7 +50,7 @@
             "name": "Podarkin",
             "link": "https://telegram.me/adte_bot",
             "header": "an MVP of a marketing app based on a Telegram mini-app created to draw pre-New Year gifts from local brands among the citizens of a town to stimulate sales through draws.",
-            "description": "“Podarkin” MVP launched on December 1, 2024 to draw presents from local brands every day till December 31, 2024 to test the idea of increasing of local brands sales through the draws. 6 brands and over 350 people participated. 250 presents have been drawn over 30 days.",
+            "description": "“Podarkin” MVP v1 launched on December 1, 2024 to draw presents from local brands every day till December 31, 2024 to test the idea of increasing of local brands sales through the draws. 6 brands and over 350 people participated. 250 presents have been drawn over 30 days.",
             "videos": [
               {
                 "link": "https://www.youtube.com/embed/TJ155W9OeLU"
