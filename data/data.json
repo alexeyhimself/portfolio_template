@@ -16,8 +16,8 @@
         "section_data": [
           {
             "name": "AI therapist",
-            "header": "an MVP of an AI therapist built on a Telegram chatbot.",
-            "description": "“AI therapist” MVP v1 was launched on May 2025 and currently is in looking for a PMF state.",
+            "header": "an MVP of an AI therapist built as a Telegram chatbot.",
+            "description": "“AI therapist” MVP v1 was launched on May 2025 and currently is in looking for a PMF state. Below is a short demo of a simple 3 minutes long therapy session.",
             "videos": [
               {
                 "link": "https://www.youtube.com/embed/BlZO26PShnA"
