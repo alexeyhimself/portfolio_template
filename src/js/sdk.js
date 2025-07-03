@@ -73,6 +73,9 @@ function compose_project_li(data) {
   if (data.images) {
     for (let i = 0; i < data.images.length; i++) {
       const img = data.images[i];
+      if (!img.link)
+        continue;
+
       content += '<a href="#" data-bs-toggle="modal" data-bs-target="#image_preview_modal">';
       content += `<img src="${img.link}" class="img-thumbnail" alt="${img.description}">`;
       content += '</a>';
