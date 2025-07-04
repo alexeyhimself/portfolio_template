@@ -16,7 +16,7 @@
         "section_data": [
           {
             "name": "AI therapist",
-            "header": "an MVP of an AI therapist built as a Telegram chatbot.",
+            "header": "an MVP of an AI therapist built as a Telegram chatbot, 2025, B2C, healthcare (side-project)",
             "description": "“AI therapist” MVP v1 was launched on May 2025 and currently is looking for a PMF state. Below is a short demo of a simple 3 minutes long therapy session.",
             "videos": [
               {
@@ -33,7 +33,7 @@
           {
             "name": "Farmers Goods",
             "link": "https://telegram.me/farmersgoods",
-            "header": "an MVP of a horizontal classifier for perishable goods from locals for locals, built on a Telegram bot.",
+            "header": "an MVP of a horizontal classifier for perishable goods from locals for locals, built on a Telegram bot, 2025, C2C, marketing (side-project)",
             "description": "“Farmers Goods” MVP v1 was launched on April, 2025 to help local sellers of perishable goods (forest and garden berries, vegetables, mushrooms, fresh fish, greens, etc.) and local buyers to find each other fast and easy in a high season of Summer 2025. 3 towns are connected to test the problem and the demand.",
             "images": [
               {
@@ -65,7 +65,7 @@
           {
             "name": "Podarkin",
             "link": "https://telegram.me/adte_bot",
-            "header": "an MVP of a marketing app based on a Telegram mini-app created to draw pre-New Year gifts from local brands among the citizens of a town to stimulate sales through draws.",
+            "header": "an MVP of a marketing app based on a Telegram mini-app created to draw pre-New Year gifts from local brands among the citizens of a town to stimulate sales through draws, 2024, B2C, marketing (side-project)",
             "description": "“Podarkin” MVP v1 launched on December 1, 2024 to draw presents from local brands every day till December 31, 2024 to test the idea of increasing of local brands sales through the draws. 6 brands and over 350 people participated. 250 presents have been drawn over 30 days.",
             "videos": [
               {
