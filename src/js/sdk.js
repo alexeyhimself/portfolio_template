@@ -165,7 +165,7 @@ function update_sections(data) {
       function_to_call = update_contacts;
     else if (section_type_lower_case == 'about')
       function_to_call = update_about;
-    else if (section_type_lower_case == 'projects')
+    else if (section_type_lower_case == 'products')
       function_to_call = update_projects;
     else if (section_type_lower_case == 'conferences')
       function_to_call = update_conferences;
