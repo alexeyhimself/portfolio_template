@@ -16,7 +16,7 @@
         "section_data": [
           {
             "name": "AI therapist",
-            "header": "an AI therapist built as a Telegram chatbot, 2025, B2C, healthcare (side-project)",
+            "header": "an AI therapist built as a Telegram chatbot, 2025, B2C, healthcare",
             "description": "“AI therapist” MVP v1 was launched on May 2025 and currently is looking for a PMF state. Below is a short demo of a simple 3 minutes long therapy session.",
             "videos": [
               {
@@ -33,7 +33,7 @@
           {
             "name": "Farmers Goods",
             "link": "https://telegram.me/farmersgoods",
-            "header": "a horizontal classifier for perishable goods from locals for locals, built on a Telegram bot, 2025, C2C, marketing (side-project)",
+            "header": "a horizontal classifier for perishable goods from locals for locals, built on a Telegram bot, 2025, C2C, marketing",
             "description": "“Farmers Goods” MVP v1 was launched on April, 2025 to help local sellers of perishable goods (forest and garden berries, vegetables, mushrooms, fresh fish, greens, etc.) and local buyers to find each other fast and easy in a high season of Summer 2025. 3 towns are connected to test the problem and the demand.",
             "images": [
               {
@@ -65,7 +65,7 @@
           {
             "name": "Podarkin",
             "link": "https://telegram.me/adte_bot",
-            "header": "a marketing app based on a Telegram mini-app created to draw pre-New Year gifts from local brands among the citizens of a town to stimulate sales through draws, 2024, B2C, marketing (side-project)",
+            "header": "a marketing app based on a Telegram mini-app created to draw pre-New Year gifts from local brands among the citizens of a town to stimulate sales through draws, 2024, B2C, marketing",
             "description": "“Podarkin” MVP v1 launched on December 1, 2024 to draw presents from local brands every day till December 31, 2024 to test the idea of increasing of local brands sales through the draws. 6 brands and over 350 people participated. 250 presents have been drawn over 30 days.",
             "videos": [
               {
@@ -117,7 +117,7 @@
           },
           {
             "name": "Knowledge Base",
-            "header": "Google Chrome side panel extension powered by Gemini Nano AI, 2024, B2C, education (side-project)",
+            "header": "Google Chrome side panel extension powered by Gemini Nano AI, 2024, B2C, education",
             "link": "http://getknowledgebaseapp.com",
             "description": "“Knowledge Base” app streamlines education and solves FOMO problem for the people who study a lot and have lots of opened tabs in their browsers with tons of materials to read, watch and listen. The app <a href=\"https://ai.google.dev/competition/projects/knowledge-base\" target=\"_blank\">competed</a> in <a href=\"https://ai.google.dev/competition\" target=\"_blank\">Google Gemini AI Competition</a> held in 2024.",
             "videos": [
@@ -142,7 +142,7 @@
           },
           {
             "name": "Portfolio Template",
-            "header": "template repository on GitHub with portfolio published on GitHub Pages, 2024, B2C, marketing (side-project)",
+            "header": "template repository on GitHub with portfolio published on GitHub Pages, 2024, B2C, marketing",
             "link": "https://github.com/alexeyhimself/portfolio_template",
             "description": "“Portfolio Template” allows Product Managers and Engineers to better sell themselves in resumes and interviews by using personal, nice-looking, responsive portfolio web-site hosted by GitHub Pages for free.",
             "images": [
@@ -158,7 +158,7 @@
           },
           {
             "name": "Calendarium",
-            "header": "automated and enriched with data from WHO and HMD version of “Life Calendar”, 2024, B2C, healthcare (side-project)",
+            "header": "automated and enriched with data from WHO and HMD version of “Life Calendar”, 2024, B2C, healthcare",
             "link": "https://togetherisbetter.github.io/calendarium",
             "description": "Added value and improved UX for already existing and selling on <a href=\"https://www.amazon.com/LifeTimeTM-Weeks-Poster-Memento-Calendar/dp/B0C49TXX73?th=1\" target=\"_blank\">Amazon</a> and <a href=\"https://www.etsy.com/listing/1071238504/90-year-life-calendar-in-weeks-memento\" target=\"_blank\">Etsy</a> “Life Calendar” product by adding data from World Health Organization (WHO) and Human Mortality Database (HMD).",
             "images": [
@@ -198,7 +198,7 @@
           },
           {
             "name": "DoTheyUse",
-            "header": "2023, B2B SaaS, analytics (side-project)",
+            "header": "2023, B2B SaaS, analytics",
             "link": "https://alexeyhimself.github.io/dtu_gw",
             "description": "Developed a high fidelity real-data prototype for features usage product analytics service that helps software development teams to make data-informed UX decisions and eliminate feature bloat for digital apps and services.",
             "images": [
