@@ -41,7 +41,8 @@
     {
       "Competitions": [
         {
-          "title": "“Gemini API Competition”, 2024",
+          "title": "“Gemini API Competition”",
+          "header": "competed at competition, 2024",
           "link": "https://ai.google.dev/competition",
           "description": "Google Gemini AI Competition"
         }

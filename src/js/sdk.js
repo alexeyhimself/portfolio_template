@@ -100,7 +100,7 @@ function compose_interview_li(data) {
 
 function compose_competition_li(data) {
   content = '<li class="li">';
-  content += `<p class="li_header"><a href="${data.link}" target="_blank">${data.title}</a></p>`;
+  content += `<p class="li_header"><b><a href="${data.link}" target="_blank">${data.title}</a> &mdash; ${data.header}</b></p>`;
   content += `<p class="li_paragraph">${data.description}</p>`;
   content += '</li>';
   return content;
