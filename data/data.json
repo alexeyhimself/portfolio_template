@@ -16,8 +16,9 @@
         "section_data": [
           {
             "name": "AI therapist",
-            "header": "an AI therapist built as a Telegram chatbot, 2025, B2C, healthcare",
-            "description": "“AI therapist” MVP v1 was launched on May 2025 and currently is looking for a PMF state. Below is a short demo of a simple 3 minutes long therapy session.",
+            "link": "https://togetherisbetter.github.io/ai-therapist"
+            "header": "agentic AI therapist built as a Telegram chatbot, 2025, B2C, healthcare",
+            "description": "“AI therapist” MVP v1 was launched on May 2025 and currently is in search of a PMF. Below is a short demo of a simple 3 minutes-long therapy session (May 2025).",
             "videos": [
               {
                 "link": "https://www.youtube.com/embed/BlZO26PShnA"
