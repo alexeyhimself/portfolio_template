@@ -85,7 +85,7 @@ function compose_project_li(data) {
 
 function compose_conference_li(data) {
   content = '<li class="li">';
-  content += `<p class="li_header"><b>${data.title}, ${data.conference}</b></p>`;
+  content += `<p class="li_header"><b>“${data.title}, ${data.conference}”</b></p>`;
   content += `<iframe class="img-thumbnail" width="50%" height="auto" src="${data.link}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`;
   content += '</li>';
   return content;
